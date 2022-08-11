@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "from": "ACC",
+            "to": "Atlantic Coast"
+        },
+        {
+            "from": "acc",
+            "to": "Atlantic Coast"
+        },
+        {
+            "from": "WCC",
+            "to": "West Coast"
+        },
+        {
+            "from": "wcc",
+            "to": "West Coast"
+        }
+    ]
+}

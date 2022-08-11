@@ -1,0 +1,1 @@
+{"buildTargets":["build","clean","cov","deps","develop","docker-clean","env","install","lint","package","run","start","style","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
