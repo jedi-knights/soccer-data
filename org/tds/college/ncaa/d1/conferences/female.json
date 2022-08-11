@@ -1,0 +1,352 @@
+{
+  "data": [
+    {
+      "id": 22,
+      "name": "ASUN",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/asun/cfid-22",
+      "schools": null
+    },
+    {
+      "id": 1,
+      "name": "America East",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/america-east/cfid-1",
+      "schools": null
+    },
+    {
+      "id": 1047,
+      "name": "American Athletic",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/american-athletic/cfid-1047",
+      "schools": null
+    },
+    {
+      "id": 2,
+      "name": "Atlantic 10",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/atlantic-10/cfid-2",
+      "schools": null
+    },
+    {
+      "id": 3,
+      "name": "Atlantic Coast",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/atlantic-coast/cfid-3",
+      "schools": null
+    },
+    {
+      "id": 5,
+      "name": "Big East",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/big-east/cfid-5",
+      "schools": null
+    },
+    {
+      "id": 6,
+      "name": "Big South",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/big-south/cfid-6",
+      "schools": null
+    },
+    {
+      "id": 7,
+      "name": "Big Ten",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/big-ten/cfid-7",
+      "schools": null
+    },
+    {
+      "id": 8,
+      "name": "Big West",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/big-west/cfid-8",
+      "schools": null
+    },
+    {
+      "id": 9,
+      "name": "Colonial Athletic Association",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/colonial-athletic-association/cfid-9",
+      "schools": null
+    },
+    {
+      "id": 10,
+      "name": "Conference USA",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/conference-usa/cfid-10",
+      "schools": null
+    },
+    {
+      "id": 11,
+      "name": "Horizon League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/horizon-league/cfid-11",
+      "schools": null
+    },
+    {
+      "id": 47,
+      "name": "Independent",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/independent/cfid-47",
+      "schools": null
+    },
+    {
+      "id": 12,
+      "name": "Ivy League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/ivy-league/cfid-12",
+      "schools": null
+    },
+    {
+      "id": 13,
+      "name": "Metro Atlantic Athletic Conference",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/metro-atlantic-athletic-conference/cfid-13",
+      "schools": null
+    },
+    {
+      "id": 14,
+      "name": "Mid-American",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/mid-american/cfid-14",
+      "schools": null
+    },
+    {
+      "id": 15,
+      "name": "Missouri Valley",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/missouri-valley/cfid-15",
+      "schools": null
+    },
+    {
+      "id": 17,
+      "name": "Northeast",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/northeast/cfid-17",
+      "schools": null
+    },
+    {
+      "id": 26,
+      "name": "Ohio Valley",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/ohio-valley/cfid-26",
+      "schools": null
+    },
+    {
+      "id": 27,
+      "name": "Pacific 12",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/pacific-12/cfid-27",
+      "schools": null
+    },
+    {
+      "id": 18,
+      "name": "Patriot League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/patriot-league/cfid-18",
+      "schools": null
+    },
+    {
+      "id": 19,
+      "name": "Southern",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/southern/cfid-19",
+      "schools": null
+    },
+    {
+      "id": 31,
+      "name": "Summit League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/summit-league/cfid-31",
+      "schools": null
+    },
+    {
+      "id": 32,
+      "name": "Sun Belt",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/sun-belt/cfid-32",
+      "schools": null
+    },
+    {
+      "id": 21,
+      "name": "West Coast",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/west-coast/cfid-21",
+      "schools": null
+    },
+    {
+      "id": 33,
+      "name": "Western Athletic",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/men/western-athletic/cfid-33",
+      "schools": null
+    },
+    {
+      "id": 22,
+      "name": "ASUN",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/asun/cfid-22",
+      "schools": null
+    },
+    {
+      "id": 1,
+      "name": "America East",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/america-east/cfid-1",
+      "schools": null
+    },
+    {
+      "id": 1047,
+      "name": "American Athletic",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/american-athletic/cfid-1047",
+      "schools": null
+    },
+    {
+      "id": 2,
+      "name": "Atlantic 10",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/atlantic-10/cfid-2",
+      "schools": null
+    },
+    {
+      "id": 3,
+      "name": "Atlantic Coast",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/atlantic-coast/cfid-3",
+      "schools": null
+    },
+    {
+      "id": 23,
+      "name": "Big 12",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/big-12/cfid-23",
+      "schools": null
+    },
+    {
+      "id": 5,
+      "name": "Big East",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/big-east/cfid-5",
+      "schools": null
+    },
+    {
+      "id": 24,
+      "name": "Big Sky",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/big-sky/cfid-24",
+      "schools": null
+    },
+    {
+      "id": 6,
+      "name": "Big South",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/big-south/cfid-6",
+      "schools": null
+    },
+    {
+      "id": 7,
+      "name": "Big Ten",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/big-ten/cfid-7",
+      "schools": null
+    },
+    {
+      "id": 8,
+      "name": "Big West",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/big-west/cfid-8",
+      "schools": null
+    },
+    {
+      "id": 9,
+      "name": "Colonial Athletic Association",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/colonial-athletic-association/cfid-9",
+      "schools": null
+    },
+    {
+      "id": 10,
+      "name": "Conference USA",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/conference-usa/cfid-10",
+      "schools": null
+    },
+    {
+      "id": 11,
+      "name": "Horizon League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/horizon-league/cfid-11",
+      "schools": null
+    },
+    {
+      "id": 47,
+      "name": "Independent",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/independent/cfid-47",
+      "schools": null
+    },
+    {
+      "id": 12,
+      "name": "Ivy League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/ivy-league/cfid-12",
+      "schools": null
+    },
+    {
+      "id": 13,
+      "name": "Metro Atlantic Athletic Conference",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/metro-atlantic-athletic-conference/cfid-13",
+      "schools": null
+    },
+    {
+      "id": 14,
+      "name": "Mid-American",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/mid-american/cfid-14",
+      "schools": null
+    },
+    {
+      "id": 15,
+      "name": "Missouri Valley",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/missouri-valley/cfid-15",
+      "schools": null
+    },
+    {
+      "id": 25,
+      "name": "Mountain West",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/mountain-west/cfid-25",
+      "schools": null
+    },
+    {
+      "id": 17,
+      "name": "Northeast",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/northeast/cfid-17",
+      "schools": null
+    },
+    {
+      "id": 26,
+      "name": "Ohio Valley",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/ohio-valley/cfid-26",
+      "schools": null
+    },
+    {
+      "id": 27,
+      "name": "Pacific 12",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/pacific-12/cfid-27",
+      "schools": null
+    },
+    {
+      "id": 18,
+      "name": "Patriot League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/patriot-league/cfid-18",
+      "schools": null
+    },
+    {
+      "id": 1044,
+      "name": "SEC",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/sec/cfid-1044",
+      "schools": null
+    },
+    {
+      "id": 19,
+      "name": "Southern",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/southern/cfid-19",
+      "schools": null
+    },
+    {
+      "id": 29,
+      "name": "Southland",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/southland/cfid-29",
+      "schools": null
+    },
+    {
+      "id": 30,
+      "name": "Southwestern Athletic",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/southwestern-athletic/cfid-30",
+      "schools": null
+    },
+    {
+      "id": 31,
+      "name": "Summit League",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/summit-league/cfid-31",
+      "schools": null
+    },
+    {
+      "id": 32,
+      "name": "Sun Belt",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/sun-belt/cfid-32",
+      "schools": null
+    },
+    {
+      "id": 21,
+      "name": "West Coast",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/west-coast/cfid-21",
+      "schools": null
+    },
+    {
+      "id": 33,
+      "name": "Western Athletic",
+      "url": "https://www.topdrawersoccer.com/college-soccer/college-conferences/conference-details/women/western-athletic/cfid-33",
+      "schools": null
+    }
+  ]
+}

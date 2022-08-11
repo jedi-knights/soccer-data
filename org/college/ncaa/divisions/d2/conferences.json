@@ -1,0 +1,188 @@
+{
+    "data": [
+        {
+            "id": "0c5948d3-1551-49b0-b357-d0e5dd5e4c40",
+            "name": "California Collegiate Athletic Association"
+        },
+        {
+            "id": "bcd14893-f68c-4f79-9ced-305bb4823ca1",
+            "name": "Central Atlantic Conference"
+        },
+        {
+            "id": "6b571a22-bdde-4bcb-bc85-15885da67801",
+            "name": "Conference Carolinas"
+        },
+        {
+            "id": "c9301059-a6f0-4764-9567-66d6a27605cd",
+            "name": "East Coast Conference"
+        },
+        {
+            "id": "53546547-c695-4cd6-83ab-ece7f9b419d1",
+            "name": "Great American Conference"
+        },
+        {
+            "id": "21cf8cf9-a6c7-48c3-8f05-0855ca4bdd2a",
+            "name": "Great Lakes Intercollegiate Athletic Conference"
+        },
+        {
+            "id": "658eba8d-b645-4937-b033-a32f5668533d",
+            "name": "Great Lakes Valley Conference"
+        },
+        {
+            "id": "510bf249-6319-4573-a624-a70074d95afc",
+            "name": "Great Midwest Athletic Conference"
+        },
+        {
+            "id": "7a4b5711-6632-4c42-8f8b-f5466af89f27",
+            "name": "Great Northwest Athletic Conference"
+        },
+        {
+            "id": "26070dc6-7a80-4e94-90fe-ca6355bdaa87",
+            "name": "Gulf South"
+        },
+        {
+            "id": "cecb6dcf-7e1c-40ad-bbb7-10d023874ca4",
+            "name": "Heartland"
+        },
+        {
+            "id": "8c007d6f-70f3-4b23-9660-7fec963fa4e1",
+            "name": "Independent"
+        },
+        {
+            "id": "bbadec29-6b40-4f7c-99f1-3717b1fb55b6",
+            "name": "Lone Star Conference"
+        },
+        {
+            "id": "e409efde-3d8a-4862-bf99-1130d9adb401",
+            "name": "Mid-America Intercollegiate Athletic Association"
+        },
+        {
+            "id": "952763ba-0ee4-4b90-a086-fab4917d9dcd",
+            "name": "Mountain East"
+        },
+        {
+            "id": "0eef6d10-8b05-4d24-a367-94567d834765",
+            "name": "Northeast-10 Conference"
+        },
+        {
+            "id": "8e2842bc-76ea-4db2-994b-3554d24adf8f",
+            "name": "Northern Sun Intercollegiate Conference"
+        },
+        {
+            "id": "08a28125-8bb3-4e5d-9f3f-ca842ab51200",
+            "name": "PSAC"
+        },
+        {
+            "id": "f969bb43-b1a6-4152-bbce-28366229c4f8",
+            "name": "Pacific West Conference"
+        },
+        {
+            "id": "fae3ca45-7924-4fb4-aa82-67ce224948f0",
+            "name": "Peach Belt Conference"
+        },
+        {
+            "id": "5ced0a47-8b20-4a92-bd36-e26d4bcb8008",
+            "name": "Rocky Mountain Athletic Conference"
+        },
+        {
+            "id": "ad4d00e3-6a8f-4634-9484-f031e2437986",
+            "name": "South Atlantic Conference"
+        },
+        {
+            "id": "cb08533b-5274-4441-a34a-92eaf5a9ee40",
+            "name": "Sunshine State Conference"
+        },
+        {
+            "id": "498dd244-acec-469f-a0de-388b3c469948",
+            "name": "California Collegiate Athletic Association"
+        },
+        {
+            "id": "c184c5f3-dc1c-4576-9c31-1f9a58d89e5a",
+            "name": "Central Atlantic Conference"
+        },
+        {
+            "id": "3f0fefe8-4f57-44e7-9565-812da2f16880",
+            "name": "Conference Carolinas"
+        },
+        {
+            "id": "ff4faa1d-2b7c-47c5-907e-587e06703477",
+            "name": "East Coast Conference"
+        },
+        {
+            "id": "d848653b-2224-45d0-92a7-6fb05a5cd30b",
+            "name": "Great American Conference"
+        },
+        {
+            "id": "4d2b627c-4383-41e3-82bc-1bc29ccc9309",
+            "name": "Great Lakes Intercollegiate Athletic Conference"
+        },
+        {
+            "id": "9fa57d15-4900-46f2-aa9f-83ef995cc69e",
+            "name": "Great Lakes Valley Conference"
+        },
+        {
+            "id": "9ff52ffd-446d-4b26-89b5-7f75ccebfdfb",
+            "name": "Great Midwest Athletic Conference"
+        },
+        {
+            "id": "665a5eb4-d1a9-4272-a2dc-a9646fdfae6f",
+            "name": "Great Northwest Athletic Conference"
+        },
+        {
+            "id": "a76a2c36-195a-4583-8997-254098b9cd95",
+            "name": "Gulf South"
+        },
+        {
+            "id": "620b8b88-dc2b-4834-8a98-202c664733e5",
+            "name": "Heartland"
+        },
+        {
+            "id": "04b188c8-eff9-41d8-b24d-b11800133b0d",
+            "name": "Independent"
+        },
+        {
+            "id": "9aeab054-aa7b-4fe0-ba39-24c8c03bbb94",
+            "name": "Lone Star Conference"
+        },
+        {
+            "id": "769df9b0-226d-42aa-9d9a-916bfd79a891",
+            "name": "Mid-America Intercollegiate Athletic Association"
+        },
+        {
+            "id": "e2c902a7-57a1-49db-b9e1-e0d215a38d7b",
+            "name": "Mountain East"
+        },
+        {
+            "id": "4d24b2a6-9673-425e-b1aa-92f981dc9f75",
+            "name": "Northeast-10 Conference"
+        },
+        {
+            "id": "8948db99-ea72-43fd-82e1-c348781f6748",
+            "name": "Northern Sun Intercollegiate Conference"
+        },
+        {
+            "id": "57cd6c1a-0793-4801-a938-2c5776e5dc29",
+            "name": "PSAC"
+        },
+        {
+            "id": "8052870a-0d87-43eb-a806-e9499530cccd",
+            "name": "Pacific West Conference"
+        },
+        {
+            "id": "53dc0cbc-5079-42f4-9cc0-0b1daf37c1ed",
+            "name": "Peach Belt Conference"
+        },
+        {
+            "id": "68473113-5bd0-4618-b0fc-659ee9665f7f",
+            "name": "Rocky Mountain Athletic Conference"
+        },
+        {
+            "id": "85ded931-d3de-4a13-9296-1aabac738951",
+            "name": "South Atlantic Conference"
+        },
+        {
+            "id": "e28cca87-02ba-4bcf-bee6-18c66f61303f",
+            "name": "Sunshine State Conference"
+        }
+    ]
+}

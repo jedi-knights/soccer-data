@@ -1,0 +1,9 @@
+{
+  "data": {
+    "All": 0,
+    "Goalkeeper": 1,
+    "Defender": 2,
+    "Midfielder": 6,
+    "Forward": 5
+  }
+}

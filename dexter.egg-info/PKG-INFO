@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: dexter
+Version: 0.0.1
+Summary: {description}
+Home-page: https://github.com/ocrosby/soccer-data
+Author: Omar Crosby
+Author-email: omar.crosby@gmail.com
+Project-URL: Bug Tracker, https://github.com/ocrosby/soccer-data/issues
+Project-URL: Changelog, https://github.com/ocrosby/soccer-data/blob/master/CHANGELOG.md
+Keywords: dexter soccer soccerhub data
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: !=3.0.*,!=3.1.*,!=3.2.*,>=2.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# Soccer Data
+
+In my attempt at collecting a lot of Soccer data I have found that there are several things I just cannot seem to find easily.  This repo is an attempt to help that situation.  Here I plan on saving some of the manual information that I can't seem to get at in an automated way.
+
+https://www.youtube.com/watch?v=2MQUiwLa1fM
+
+pipenv install click setuptools
+
+Using setuptools
+> pip install setuptools
+> pip install --editable .
+
+Note: When you install editable it creates a .egg file
+
+or
+> python setup.py
+
+Starts a virtual environment for you
+> pipenv shell
+
+## References
+
+* [JSON Schema](https://json-schema.org/)
+* [Nesting Commands](https://click.palletsprojects.com/en/6.x/quickstart/#nesting-commands)

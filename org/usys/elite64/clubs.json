@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "7fe1daaf-a5d2-4e23-89e0-4303c4e0ce22",
+            "name": "Boise Timbers",
+            "url": "http://www.Boisetimbersthorns.org"
+        },
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "3b0de96d-f4e7-4f02-ad59-78d6e1431ae7",
+            "name": "Idaho Rush SC",
+            "url": "http://www.idahorush.com"
+        },
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "bbecaebe-96f6-41b9-9707-4a3a9cc118af",
+            "name": "NorCal Surf SC",
+            "url": "https://norcalsurfsoccer.com/"
+        },
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "2d3a229d-e4d3-4ce1-a974-3f4a25a92f87",
+            "name": "Oregon Premier FC",
+            "url": "https://oregonpremierfc.com/"
+        },
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "a073e036-5054-42c9-8e62-d94d04ce0993",
+            "name": "Valor Soccer",
+            "url": "https://www.valorsoccer.com/"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "86f7dda1-42ce-47c0-b862-4bd4171243f0",
+            "name": "Arsenal Colorado",
+            "url": "http://www.soccerfortcollins.org"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "3d7bb931-59f8-45ed-8f5c-f55e2afbc4d1",
+            "name": "Colorado Rapids Youth SC",
+            "url": "http://www.rapidsyouthsoccer.org"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "b56929f4-7ae9-403e-a1ea-b11a87cfdd66",
+            "name": "Phoenix Rising FC Youth",
+            "url": "http://Prfcyouthsoccer.com"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "91b3ea5a-0c35-4268-997b-61b541557b77",
+            "name": "Real Colorado",
+            "url": "http://www.realcolorado.net"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "a4ee15ee-3894-4eed-abde-5c928adcf1e2",
+            "name": "Real Salt Lake - Arizona",
+            "url": "https://www.rsl-az.com/"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "e44f8129-d69b-4d7f-a46b-7763258cba50",
+            "name": "SC del Sol",
+            "url": "https://www.scdelsol.com/"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "8ee74148-3f4d-44a5-a1fb-338758973565",
+            "name": "Sparta United SC",
+            "url": "http://www.spartaunited.org/"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "ee69eb3a-0178-4435-8a14-79f448dcfb70",
+            "name": "Utah Soccer Alliance",
+            "url": "https://www.utahsocceralliance.org/"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "c414816d-c66f-4cab-a7a7-07bda521d670",
+            "name": "Chicago FC United",
+            "url": "http://www.chicagofcunited.com"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "39e7040e-b41c-4e78-9d02-f146409954b8",
+            "name": "FC 1974 Libertyville",
+            "url": "https://www.glsa.org/"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "d1add033-3d89-43dd-bb82-c337c21c0aec",
+            "name": "Galaxy SC",
+            "url": "https://www.galaxysc.com/"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "9a39643e-363a-4eda-9ba9-ffa357f2ac2f",
+            "name": "Madison 56ers SC",
+            "url": "https://madison56ers.org"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "1bd8a552-720d-4389-83be-89d071e06cec",
+            "name": "Rockford Raptors FC",
+            "url": "http://www.rockfordraptors.org"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "4e0bb24c-7b51-4548-a573-b685101be544",
+            "name": "SC Wave",
+            "url": "https://www.scwave.org/"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "61df025f-6b92-4f4c-99b8-d34d9d97c9e2",
+            "name": "Sporting Blue Valley SC",
+            "url": "http://www.sportingbvsoccer.org"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "a63b7905-adbd-45df-86c9-872bb37fcb84",
+            "name": "Toca FC",
+            "url": "http://www.tocafc.org"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "11c2696f-6ab4-498b-98c2-ef6b88837cd0",
+            "name": "Boston Bolts",
+            "url": "https://www.bostonbolts.com/"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "fa22be3b-78fb-4b51-a575-f89a8f6fb8ad",
+            "name": "Cedar Stars Academy",
+            "url": "https://www.cedarstars.com/"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "e9d24b87-6f32-4999-94f0-c615225873e7",
+            "name": "Coppermine SC",
+            "url": "http://www.copperminesoccer.com"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "348bd982-0ee7-4b1a-b470-75f232d5ca10",
+            "name": "Long Island Slammers",
+            "url": "https://www.longislandslammers.com/"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "d3d52cd5-292e-41d4-8b3d-074905aa48ee",
+            "name": "PDA",
+            "url": "http://www.pdasoccer.org"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "d1440a42-decc-4e85-a839-40f630bb9e21",
+            "name": "Phila Ukrainian Nationals",
+            "url": "http://www.ukrainiannationals.com"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "d4ed7324-a8d7-41a6-81e5-0ba3144f4557",
+            "name": "Princeton Soccer Academy",
+            "url": "https://www.princetonsocceracademy.com/"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "e00adfc4-2ae3-4c35-9d4f-1e3d7a35edc8",
+            "name": "STA",
+            "url": "https://www.stasoccer.org/"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "7f650d5a-5873-4cb9-b356-153bbc0a5c50",
+            "name": "AYSO United",
+            "url": "http://www.aysounited.org"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "a77b9079-1e2e-4d11-83e2-cc3f6d86b339",
+            "name": "East County Surf SC",
+            "url": "https://www.eastcountysurf.com"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "0b7dbfeb-af39-4b31-a060-04f0edf96b24",
+            "name": "Laguna United FC",
+            "url": "https://www.lagunaunited.org/"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "e63bab04-fd49-47f0-8bd0-cf0d18f4c864",
+            "name": "Las Vegas Surf SC",
+            "url": "https://lvsurfsc.com/"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "f3d70578-a590-45f4-b0fb-a647011445b9",
+            "name": "LAUFA",
+            "url": "http://www.laufa.org"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "79fb5261-0df2-4ca2-82bf-953933b7c01a",
+            "name": "Legends FC",
+            "url": "http://www.legendsfc.net"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "9131fa76-491e-4c33-92d9-297edbfa4344",
+            "name": "Los Angeles SC",
+            "url": "https://www.lasoccerclub.org/"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "b59ead08-30d7-455a-941e-82db66fa3efa",
+            "name": "Slammers FC",
+            "url": "http://cdaslammers.com"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "d7e3e119-70cf-40bf-8bb8-ef86843a0539",
+            "name": "Strikers FC North",
+            "url": "http://www.strikersfcnorth.com"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "71895123-bc70-46f5-a598-37e4a3b6ccc9",
+            "name": "Capital City SC",
+            "url": "https://www.capcitysc.com/"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "61e864ce-5501-48ac-a2a5-e8d46e51368c",
+            "name": "FC Westlake",
+            "url": "https://fcwestlake.com/"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "adb71eab-e44e-4eb1-ace0-47c4f2d04aee",
+            "name": "Lobos Rush",
+            "url": "http://www.lobosrush.com"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "e0a3f818-d7b6-47ce-b641-aea2fcd37742",
+            "name": "El Paso Locomotive FC",
+            "url": "https://www.eplocomotivefc.com"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "64ab5e42-ac46-4f9d-b7a0-d9d392534bb4",
+            "name": "Renegades SC",
+            "url": "https://www.renegadessoccer.com/"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "da956ba1-92b7-4a8a-8cc5-a79cc4ae5106",
+            "name": "Rush Select South",
+            "url": "http://www.rushsoccer.com"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "9b7ba097-66eb-4191-95cf-a05b6278e55a",
+            "name": "Tigres FC",
+            "url": "http://www.tigres-fc.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "db5daa48-f935-48b7-82ac-fd1870374a15",
+            "name": "Beadling SC",
+            "url": "https://www.beadling.com/"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "5dcec81c-b06b-4df3-a72f-b2f339e90b2f",
+            "name": "Cincinnati United SC (CUP)",
+            "url": "http://cincinnatiunitedsoccer.com/"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "4743fae9-19e7-4f4a-b4d8-2e848ebfb994",
+            "name": "Indiana Fire Academy",
+            "url": "http://www.indianafirejuniors.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "d7ab7281-f939-4bd6-8148-550a92924476",
+            "name": "Kings Hammer SC",
+            "url": "https://kingshammer.com/"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "8017cc53-aaba-45e5-917a-9a33c4e443a0",
+            "name": "Liverpool Int'l Academy - MI",
+            "url": "https://www.lfcinternationalacademymi.com/"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "9a8c2e43-9e36-4c43-bc86-3052b406905b",
+            "name": "Michigan Jaguars FC",
+            "url": "https://michiganjaguarsfc.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "febf6261-d0d1-4efb-adf0-0924f44b6943",
+            "name": "Michigan Tigers",
+            "url": "http://www.michigantigersfc.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "ca001798-977d-412a-93fd-a154bcadd17c",
+            "name": "Ohio Galaxies FC",
+            "url": "http://www.ohiogalaxiesfc.com/home.php"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "7652b9ec-82a0-48ce-ad84-69a3922ea9cb",
+            "name": "AFC Lightning",
+            "url": "http://www.afclightning.org"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "79cbbfec-3949-401e-9425-67da37ff7bd5",
+            "name": "Charlotte Soccer Academy",
+            "url": "https://www.charlottesocceracademy.com/"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "eee9d0be-66fa-443e-8a63-07b75523ed27",
+            "name": "Concorde Fire",
+            "url": "http://www.concordefire.com/"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "50dba3ef-c5da-4a3f-91b3-0c765179d5ba",
+            "name": "IMG Academy",
+            "url": "http://www.imgacademy.com"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "85f14b86-29b8-488d-9707-869d0b385808",
+            "name": "Jacksonville FC",
+            "url": "https://jfcsoccer.com/"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "dacd6c74-b693-4cc7-889b-552c4a8fe8a1",
+            "name": "North Carolina FC Youth",
+            "url": "https://www.ncfcyouth.com/"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "85911095-3d1c-4a89-8017-af028fdd920a",
+            "name": "Orlando City - Seminole",
+            "url": "https://www.ocss-seminole.com/"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "cbcb0cd3-de4c-4bf7-9892-a49e68797677",
+            "name": "Southern Soccer Academy",
+            "url": "http://www.ssaelite.com"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "ca30f151-3efd-4a9f-b4f1-5659b9457ab8",
+            "name": "United Futbol Academy",
+            "url": "http://www.unitedfa.org"
+        },
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "e607fc63-5f2e-4d1c-8cb9-98b5eb1ecfc8",
+            "name": "Diablo Valley Wolves",
+            "url": "http://www.DiabloValleyWolves.com"
+        },
+        {
+            "conference": "Elite 64 Northwest",
+            "id": "ef8cd747-151a-48f6-94d9-559527032d37",
+            "name": "Utah Avalanche",
+            "url": "http://utahavalanche.com"
+        },
+        {
+            "conference": "Elite 64 Desert",
+            "id": "76e07502-f708-4a42-91bb-da9a8d1aad4e",
+            "name": "Rush Select Desert",
+            "url": "http://www.rushsoccer.com"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "e86700a6-1582-4b77-91ef-aef1596698fd",
+            "name": "Chicago Inter Soccer",
+            "url": "https://www.chicagointersoccer.com/"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "16fca1e0-fd07-46fb-82a1-40e43635fa77",
+            "name": "J.B. Marine SC",
+            "url": "https://jbmarinesc.com/"
+        },
+        {
+            "conference": "Elite 64 Midwest",
+            "id": "51ba0c68-a6d4-485e-aefb-41f59c1a2ed2",
+            "name": "North Shore United",
+            "url": "http://www.northshoreunited.org"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "03dc66a2-de53-4313-bce1-706634525af0",
+            "name": "Bayside FC",
+            "url": "http://www.baysidefc.com"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "9c2d5580-23b8-427f-b959-47d14e5affa4",
+            "name": "Connecticut FC",
+            "url": "http://www.connecticutfootballclub.com/"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "33cf62a3-1b6a-43b7-9780-e47cdb8739f0",
+            "name": "FC Copa Academy",
+            "url": "http://www.fccopa.com"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "f8a6f839-9f18-40f0-a9c3-65be9f488fc7",
+            "name": "Match Fit Academy",
+            "url": "http://www.matchfitacademy.net"
+        },
+        {
+            "conference": "Elite 64 Northeast",
+            "id": "44fb2f38-de6c-4ae8-8d91-77a756efe42a",
+            "name": "New York Surf SC",
+            "url": "http://www.nysurfsoccer.org"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "4ca45e19-ab6d-4fb8-9fc8-0fb5b9e013bf",
+            "name": "FC Premier",
+            "url": "https://www.fcpremier97.com"
+        },
+        {
+            "conference": "Elite 64 Pacific",
+            "id": "9f0af2cd-b21c-43e9-abce-9060b92d8d27",
+            "name": "South Valley Surf",
+            "url": "http://www.southvalleysoccer.com"
+        },
+        {
+            "conference": "Elite 64 South",
+            "id": "eafb7e36-7e31-4ee9-a343-eb7b9f953ca3",
+            "name": "Dallas Cosmos SC",
+            "url": "https://www.dallascosmos.com/"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "beac68f4-f0e5-49a0-93d2-5f3dd70726af",
+            "name": "Fort Wayne United FC",
+            "url": "http://www.fwunitedfc.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "d135a549-754a-4b8f-8f17-cf798b78f3a4",
+            "name": "Greater Toledo FC Impact",
+            "url": "https://www.greatertoledofc.org/"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "d19ec375-052a-479b-a14a-1d6c1354023f",
+            "name": "Indiana Fire Academy​",
+            "url": "http://www.indianafirejuniors.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "ca35ef32-1a25-4488-b1d8-2d3a2dc09a45",
+            "name": "Pittsburgh Hotspurs SC",
+            "url": "http://www.hotspurs-soccer.com"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "83e54eb2-698d-40c9-967d-70fc99f31080",
+            "name": "TFA Cincinnati",
+            "url": "https://www.tfacincinnati.com/tfa"
+        },
+        {
+            "conference": "Elite 64 Great Lakes",
+            "id": "2922720c-7828-42df-8e68-fad7c5c831e3",
+            "name": "WNY Flash Academy",
+            "url": "http://WNYFlash.com"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "a3923aab-9151-43c8-98a6-8dc290d862e5",
+            "name": "Atlanta Fire United",
+            "url": "http://Atlantaunitedsoccer.com"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "1392262b-c139-431b-95eb-c7d3f1a7fed3",
+            "name": "Orlando City - Lake Nona",
+            "url": "http://www.OCSS-LakeNona.com"
+        },
+        {
+            "conference": "Elite 64 Southeast",
+            "id": "2259402e-979e-4f20-b503-7d6950336cea",
+            "name": "Team Boca",
+            "url": "https://www.teamboca.com/"
+        }
+    ]
+}

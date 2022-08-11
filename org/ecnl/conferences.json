@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": "48fc9878-5759-4975-8c76-3e88c00dbe1e",
+            "name": "Mid-Atlantic",
+            "url": null
+        },
+        {
+            "id": "e077a2a8-7063-4842-8331-674e8dd2f8eb",
+            "name": "Midwest",
+            "url": null
+        },
+        {
+            "id": "584c8db5-0628-47f2-a64e-ec6166e0291a",
+            "name": "New England",
+            "url": null
+        },
+        {
+            "id": "f443e2c1-5691-4fca-b744-3eba496b54bb",
+            "name": "North Atlantic",
+            "url": null
+        },
+        {
+            "id": "360de5ac-9e49-423a-b18c-5a2503bd1707",
+            "name": "Northwest",
+            "url": null
+        },
+        {
+            "id": "09fe55bf-ee97-482e-8723-2863c4a5188d",
+            "name": "Ohio Valley",
+            "url": null
+        },
+        {
+            "id": "7b59259b-73cf-4dda-8c95-4593f1ac67b1",
+            "name": "Southeast",
+            "url": null
+        },
+        {
+            "id": "91aca926-ed8d-47a5-98f5-06c2af80f689",
+            "name": "Southwest",
+            "url": null
+        },
+        {
+            "id": "1c4f6141-c3a0-40bc-ab90-8788c0e315b6",
+            "name": "Texas",
+            "url": null
+        }
+    ]
+}

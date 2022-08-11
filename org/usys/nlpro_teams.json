@@ -1,0 +1,5374 @@
+{
+    "data": [
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "0db8a3c1-4224-4128-845d-c50b11720cbb",
+            "pair": "A1",
+            "team": "Ironbound SC 08 United (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "fda27afb-615e-45a3-bc70-07ae2da99d33",
+            "pair": "A1",
+            "team": "PSA Monmouth National 08 (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "fb6e4e29-d5f9-4dd6-8a2f-a9316309451b",
+            "pair": "A2",
+            "team": "Potomac SA Blue 08 (MD)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "4882cc04-632e-4b4c-a650-9028a5cd6226",
+            "pair": "A2",
+            "team": "Baltimore Celtic SC Predators (MD)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "b0d586b3-793c-4177-ba42-acb6399db9f0",
+            "pair": "A3",
+            "team": "Nationals Union 08 Boys Red (MI)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "d869009c-fd48-46c9-acfa-1ae70505f046",
+            "pair": "A3",
+            "team": "United FC 08B GR (MI)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "a76f8bfa-8654-401d-8b26-d3682c61e5f5",
+            "pair": "A4",
+            "team": "Tampa Rangers (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "8497bc1c-b2c2-478c-ba17-fd2414f889bd",
+            "pair": "A4",
+            "team": "Juventus Pogba (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "000dea0e-e4eb-4bac-bfa6-f29830bfcb4d",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "c4568a79-ef08-4397-a442-89e6ca59af89",
+            "pair": "B1",
+            "team": "FC USA Matrix Mavens (MD)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "b492f505-433c-41f3-8f7b-24ae64ce8d74",
+            "pair": "B1",
+            "team": "Philadelphia Ukrainian Nationals 08 Black (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "70885e80-c698-4eda-887b-7080eecb8515",
+            "pair": "B2",
+            "team": "Sporting Saint Louis 2008 Academy Navy (MO)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "e8cb1fc3-e5fe-4b45-8aea-204e7e97877f",
+            "pair": "B2",
+            "team": "KCL - Billy Goat FC 08 (KS)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "d4ea9162-c263-44b9-9ab5-1f3ddb006dc8",
+            "pair": "B3",
+            "team": "Barca Academy Nashville 08 Garnet (TN)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "77cd9067-c759-4d18-b32b-31c4694da1c9",
+            "pair": "B3",
+            "team": "FC Dallas ETX 08 Garcia (TX-N)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "f0b3f589-4bbc-482f-a06d-5386df86a5ff",
+            "pair": "B4",
+            "team": "La Roca KP 08 (UT)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "3781dacd-798a-4d14-91c7-7b708fe3dc83",
+            "pair": "B4",
+            "team": "Diversity FC 08 National League (NV)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "12d84687-7c08-491f-8e35-7c6405f7d42c",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "4036341e-f0fe-4518-9226-0cabc6808fe6",
+            "pair": "C1",
+            "team": "Lower Merion SC Thunder (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "f3574d34-f553-4cab-a246-0122cf0dbdf4",
+            "pair": "C1",
+            "team": "YMS Premier 08 Celtic (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "e0a98593-2190-4df2-99ff-2257764e9034",
+            "pair": "C2",
+            "team": "Chicago Magic 2008 MCL (IL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "47b1c134-12dd-4e54-aaf6-f7d6dc09f22d",
+            "pair": "C2",
+            "team": "LFA Blue Star Premier (MO)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "63b21515-7be1-4d75-868f-24c7229166b5",
+            "pair": "C3",
+            "team": "Charleston SC 08 Premier (SC)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "da84b145-5977-4aac-938a-f7052ddef39d",
+            "pair": "C3",
+            "team": "Nona Soccer Academy 2008 Black (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "6cc77016-9abd-4e65-bace-0a01a0328c7d",
+            "pair": "C4",
+            "team": "Sparta Premier B08 MD (UT)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "c43b1627-2a81-4b1d-8d54-bd1c7cfce4df",
+            "pair": "C4",
+            "team": "Washington Rush Boys 08 (WA)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "8b77b373-bce7-42cf-b2bc-9c15f9c8f129",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "27a23f02-8e5d-4f1a-bbda-7b649745a406",
+            "pair": "D1",
+            "team": "Barca Academy PRO NY 2008 (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "92956747-c48d-482b-b5c1-5726f1f79522",
+            "pair": "D1",
+            "team": "Auburndale SC Blast 08 (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "079fb8b2-4891-423d-94d6-fdb14589e264",
+            "pair": "D2",
+            "team": "Bavarian SC Juniors Blue (WI)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "a4c30823-13c3-4c3f-bc80-7d3cd9ca0ed7",
+            "pair": "D2",
+            "team": "CUP 08B Black (OH)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "b3c28e53-11be-43b8-8a9e-7b6727c48737",
+            "pair": "D3",
+            "team": "Doral Elite 2008 (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "29bb0076-91f4-4014-813d-c7341c6fe733",
+            "pair": "D3",
+            "team": "PSG Academy (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "e75a0061-8fec-481b-9d36-68076e4db89b",
+            "pair": "D4",
+            "team": "NJ Premier 08 (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "b569200f-c3c5-4afc-9853-9975cf4dca89",
+            "pair": "D4",
+            "team": "Tigres FC 08B Premier (TX-S)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "453e85ea-4668-47c4-9cb7-9dbd2a0376d7",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "875890a5-fc82-4833-9d88-039985295444",
+            "pair": "E1",
+            "team": "Brentwood SC Premier 08 Academy Man City (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "78f795b1-7097-44d0-b8a0-393f940d26b7",
+            "pair": "E1",
+            "team": "Asphalt Green Soccer Club (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "55a5fbd7-c870-468f-8681-e2082602e964",
+            "pair": "E2",
+            "team": "Columbus United B08 Lions (OH)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "9ba5e9fb-7514-4b68-b0b7-50d980a5c29b",
+            "pair": "E2",
+            "team": "Nationals Union 08 Boys Black (MI)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "7a214745-09bf-4d47-b1b8-381daab2e27b",
+            "pair": "E3",
+            "team": "D'Feeters Kicks SC 08 Lopez (TX-N)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "c50bd2b0-b85a-47a9-baa7-a467afcfda42",
+            "pair": "E3",
+            "team": "Allegiance FC 08 Black (TX-N)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "6ea8b1c6-181a-4822-8a38-be76520b8f67",
+            "pair": "E4",
+            "team": "Lehigh Valley United 2008 Boys Black (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "9623e019-d012-47e6-af43-74168577f725",
+            "pair": "E4",
+            "team": "Torpedoes 08 Red (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "c6b5a38f-b41f-45da-b59c-547fa980fb5a",
+            "pair": "A1",
+            "team": "Barça Academy Pro NY B2007 PRO (NY-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "9e5f5cd4-0f90-4fc1-a572-fe7f7d1440d4",
+            "pair": "A1",
+            "team": "SC Vistula Garfield 2007 Lewandowski (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "b864c8f6-d8ed-4bc2-a8ac-1419132f0e94",
+            "pair": "A2",
+            "team": "Potomac 2007 Blue (MD)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "9bf3a391-d569-40ee-a110-e19b4214121c",
+            "pair": "A2",
+            "team": "FC Bucks Dominion 07 (PA-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "0f9821ce-1519-44dc-97dd-00d623b99e5e",
+            "pair": "A3",
+            "team": "CUP 07 Gold (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "3b91b47c-ea0e-4641-aa92-bfd1f56508c2",
+            "pair": "A3",
+            "team": "KHA B07 Red (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "bf76656d-7025-420a-9426-f0ae8c8ddd7a",
+            "pair": "A4",
+            "team": "Piedmont Triad 07 (NC)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "255c869a-0406-49bb-8da5-af792b48a038",
+            "pair": "A4",
+            "team": "Lanier SA 07 (GA)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "74be50bc-49d5-4142-8238-7aeb379479a3",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "06cfa473-9f00-4f21-b849-bffff4e1f321",
+            "pair": "B1",
+            "team": "White Plains Academy National 2007 (NY-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "7c549070-9c25-483d-8497-5e6b84a9bc7f",
+            "pair": "B1",
+            "team": "New England Surf State Navy 2007 (MA)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "3566bf4c-ffd5-4bca-9f30-0145df4a2b96",
+            "pair": "B2",
+            "team": "Toca FC 2007 MLS (KS)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "9843a2c1-ea3a-4809-9dc7-e662d667f39a",
+            "pair": "B2",
+            "team": "JB Marine Academy (MO)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "3f24f749-a128-4b7d-8d4f-88557200e70e",
+            "pair": "B3",
+            "team": "Madison 56ers 2007 Boys Red (WI)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "7f44054a-71e6-4120-b2d1-664a01e186bb",
+            "pair": "B3",
+            "team": "Libertyville FC 1974 Elite (IL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "ce4cdb73-4f5a-48a3-894b-2f50dcc8df6f",
+            "pair": "B4",
+            "team": "United SC 07 Premier (AL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "5abc2a17-3828-4e41-ab4e-8a860c495ab5",
+            "pair": "B4",
+            "team": "TSC Murfreesboro 2007 Boys Showcase (TN)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "78992dd9-0e5d-4155-ae33-34c29f9f5146",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "20409770-7c4e-44b3-87fb-8f12d60c8674",
+            "pair": "C1",
+            "team": "MSA 2007 Gunners Blue (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "fff053a0-54ad-40bd-884b-c44640f4fe1c",
+            "pair": "C1",
+            "team": "BW Gottschee 07 East (NY-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "eb9aa111-78e9-4406-8748-8efb7e0f0eec",
+            "pair": "C2",
+            "team": "Michigan Tigers FC 2007 Boys Gold (MI)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "ab092163-1f8a-4824-b253-6c131f160427",
+            "pair": "C2",
+            "team": "Liverpool Central 07 B Academy (MI)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "6f6ce9fa-9ad0-495d-aa36-74bc3a016f8a",
+            "pair": "C3",
+            "team": "Doral Elite 2007 (FL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "29e568c9-82b3-498f-b416-daaccaaf5e4b",
+            "pair": "C3",
+            "team": "Juventus Dybala (FL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "9f11b574-0cb8-4a09-8d4d-6b7e55eaaa11",
+            "pair": "C4",
+            "team": "La Roca J Milla (UT)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "60ab508f-16ba-4672-a97b-9dc77df97d19",
+            "pair": "C4",
+            "team": "LA Surf Futures B07 (CA-S)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "c03b77da-66a9-4c6f-b2ce-88c78cb82440",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "2d7155be-dd91-42a2-b265-4f5563d1e35b",
+            "pair": "D1",
+            "team": "PDA Hibernian Scholes (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "f89da556-4660-4f8c-b347-1e98c6c94e20",
+            "pair": "D1",
+            "team": "VSA Centurions 2007 (PA-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "8065f2c0-42e4-4a86-b832-c88c9e4ffc7e",
+            "pair": "D2",
+            "team": "SLSG 2007 Elite (MO)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "fb2f695b-5162-48b9-9cf7-4bd652b65802",
+            "pair": "D2",
+            "team": "FC United - DSM 2007B (IA)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "7cf075e5-695b-487e-ade7-b6816bc08668",
+            "pair": "D3",
+            "team": "Allegiance FC 07 Black - Pedro (TX-N)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "a2d6a062-d14c-4b66-8035-416d5148206d",
+            "pair": "D3",
+            "team": "Allegiance FC 07 Red - Arana (TX-N)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "0b9b8ba3-e85a-4c75-b2b4-1102b9dc0396",
+            "pair": "D4",
+            "team": "Washington Rush Boys 07 (WA)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "429abdf1-c537-4d26-8380-a04506b9f59f",
+            "pair": "D4",
+            "team": "United PDX 2007 Boys Premier Black (OR)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "9d9f07f6-c105-4f14-94bf-b19380c0ac33",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "d00d20d2-704d-451b-ad5a-4c4848791823",
+            "pair": "E1",
+            "team": "Bethesda SC Blue 07 (MD)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "6e83bd16-ba94-48f5-94f3-c52552ddcbc6",
+            "pair": "E1",
+            "team": "SAC/BA Pre-Academy Spurs (MD)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "120fd0b1-55c3-4b83-8940-4da7a7a7292b",
+            "pair": "E2",
+            "team": "FC Evolution N B07 (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "76174171-475c-414b-8080-6727b36f11a3",
+            "pair": "E2",
+            "team": "Hoosier FC 2007 Elite Wolves (IN)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "81fb8dcd-d5f1-4903-a249-8b8e63369a47",
+            "pair": "E3",
+            "team": "Azzurri Storm 07 Premier (FL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "68137436-f830-42a8-bb5a-02c7dee6aebe",
+            "pair": "E3",
+            "team": "Wellington 07 Boys Elite (FL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "7938360e-225e-44a0-89e0-9f4856403d8c",
+            "pair": "E4",
+            "team": "FC Copa Academy B 07 Black (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "e814d1d9-3a1e-414c-b631-657281d9724f",
+            "pair": "E4",
+            "team": "UIFC Laguna FC (CA-S)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "d7b81ff1-2818-4594-b644-74270e2bd30b",
+            "pair": "A1",
+            "team": "Eagle F.C. 06 Black (PA-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "49e8d835-f6c0-4a38-af3b-44949f1095d0",
+            "pair": "A1",
+            "team": "Philadelphia Ukrainian Nationals 06 Black (PA-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "976c1ae7-f7b5-4e58-90d3-bc8c174f0383",
+            "pair": "A2",
+            "team": "Potomac Blue 06 (MD)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "190d7ab4-b912-432d-852c-21b9154236f5",
+            "pair": "A2",
+            "team": "Total Futbol 2006 Gold (MD)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "a4a0c89d-443b-4059-a4ef-aec8efb1b7b1",
+            "pair": "A3",
+            "team": "JB Marine McKeon (MO)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "67292d92-4be4-4705-9c16-ffcf662c6e96",
+            "pair": "A3",
+            "team": "LFA Mueller (MO)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "676b88a1-184b-4352-935f-7bb54ee841fd",
+            "pair": "A4",
+            "team": "Wellington 06 Boys (FL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "2598743e-422e-4757-b921-221f6ad496b1",
+            "pair": "A4",
+            "team": "Collierville SA 06 Lobos Rush Premier (TN)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "030d78d9-a4ec-4075-8ce9-c7e068415d7d",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "1a544e34-e51b-4b42-8e13-4638066a3888",
+            "pair": "B1",
+            "team": "Dix Hills Ultimatum (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "7792153b-44fa-472d-8066-930f194224e9",
+            "pair": "B1",
+            "team": "Brentwood SC Premier 06 Academy United (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "fb6c46fc-bd41-48c9-9446-4e63c11a0693",
+            "pair": "B2",
+            "team": "KHA B06 Red (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "e3405a1b-8920-4d22-9fb9-00f828ba013c",
+            "pair": "B2",
+            "team": "CUP 06 Gold (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "699e5301-fd6c-4eda-8ebf-941ba37440bc",
+            "pair": "B3",
+            "team": "KC Athletics Academy Elite 06 Galacticos (KS)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "596b1061-8438-4c02-bd03-e7ca129b4f3d",
+            "pair": "B3",
+            "team": "LFA Goddard 06 (MO)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "bc0b30ed-db12-4957-877c-963bbd4d5538",
+            "pair": "B4",
+            "team": "Georgia Storm SA 06 Premier (GA)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "8451c168-0a9d-4ca5-9f14-27ce894ee576",
+            "pair": "B4",
+            "team": "Highland FC 06 Red (NC)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "117844e9-a3ee-4f50-be09-47d2b1939fcd",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "7b7f504d-dc01-4f7a-80b6-a7e56858824d",
+            "pair": "C1",
+            "team": "Juventus Academy Boston 2006 EDS North Bianco (MA)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "0e1fadbc-6176-4520-b97a-0a3094c81cd3",
+            "pair": "C1",
+            "team": "DUSC 2006 Blue (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "db231a1d-7568-4bdd-9be4-bce89f0032c0",
+            "pair": "C2",
+            "team": "Alliance FC IN 06 Boys (IN)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "bd2ff609-4fd0-4fa6-8f90-ba72768343df",
+            "pair": "C2",
+            "team": "Nationals Union 06 Boys Black (MI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "e9224819-6974-45d4-abde-755e42dafb1d",
+            "pair": "C3",
+            "team": "FC Dallas Youth 06 Central Red (TX-N)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "8ca4a5ce-5902-478b-86b1-5cffa273c5c1",
+            "pair": "C3",
+            "team": "FC Westlake 06 South Austin (TX-S)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "66636efc-8512-49cc-8197-801704c69cc5",
+            "pair": "C4",
+            "team": "Wake FC 06 Gold North (NC)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "e934159e-66b6-42ee-8640-d8e7f731196f",
+            "pair": "C4",
+            "team": "Augusta Arsenal 06 Gold (GA)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "44bf2161-3745-4e12-9def-6195e653695d",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "eaef638c-0e4e-4d53-880c-92736c193f1d",
+            "pair": "D1",
+            "team": "FC Europa 06 Elite (PA-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "13023aeb-6e36-415d-8b59-9f92cc6a24c3",
+            "pair": "D1",
+            "team": "PSA Monmouth National 06 (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "3b38c79c-9d2c-4725-a01d-25cb6d17b5d6",
+            "pair": "D2",
+            "team": "SC Wave Juniors 06 Boys (WI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "dd048525-d981-4d1f-8882-39e7a31a8e2c",
+            "pair": "D2",
+            "team": "Raiders FC 2006 (IL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "8391a3d2-fae7-4c76-9e7c-8a2e271c1614",
+            "pair": "D3",
+            "team": "West Pines 06 Elite (FL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "ba548fbd-179f-439a-b42e-5800a8c0ba85",
+            "pair": "D3",
+            "team": "Louisiana Fire SC 06 Red (LA)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "c2711dab-23ca-4c82-a438-84ae97aa8bff",
+            "pair": "D4",
+            "team": "Anaheim FC (CA-S)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "945602e1-f1bb-4bab-8d19-a7392ac4e9f1",
+            "pair": "D4",
+            "team": "NLS Ajax 06 White (MD)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "7550cfc1-7b3c-486a-8d7c-e05486e0b40c",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "ea24838e-7d7b-4b68-88d1-d2561f65a278",
+            "pair": "E1",
+            "team": "STA Mt. Olive 06 NL Boys (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "0aca6b90-9abd-4201-a6f4-138579db74bd",
+            "pair": "E1",
+            "team": "NJ Premier F.C. 2006 Boys (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "43c59a5f-63a0-4fcd-90ff-31b6b35461ef",
+            "pair": "E2",
+            "team": "Arsenal FC of Pittsburgh 2006B Premier (PA-W)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "79121e4d-70a6-48d1-b1b8-ad952755e76d",
+            "pair": "E2",
+            "team": "Beadling 2006 Boys Showcase (PA-W)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "d0c0b3bd-eb9b-4e2a-a3a7-0da062503e01",
+            "pair": "E3",
+            "team": "USA Premier 06 (UT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "9814f131-7dcf-4e3a-88c4-8efdca2e6f00",
+            "pair": "E3",
+            "team": "LV Pros 06 (NV)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "617ddeee-f70e-4d98-82d7-c5e9679092b8",
+            "pair": "E4",
+            "team": "SC Del Sol Academy II (AZ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "88850ee8-f552-417e-bef9-26dce5e320af",
+            "pair": "E4",
+            "team": "NM Rush 06B (NM)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "3b3e1eda-49a1-4a6a-8c98-f18eb68fbbc4",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "93d41464-c1ba-4598-be0e-3461013df76f",
+            "pair": "F1",
+            "team": "BG Elite FC 06 (KY)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "f2054cbf-b892-4c91-9e1c-6df021a16d4d",
+            "pair": "F1",
+            "team": "FC Evolution N B06 (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "5aadbc25-758f-4ae2-958f-2c4ac51376b8",
+            "pair": "F2",
+            "team": "Miami Breakers FC 06 Black (FL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "f41cdd82-b354-4101-b760-4cb5ce6e7b4e",
+            "pair": "F2",
+            "team": "Strikers FC 06 Elite (FL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "ffddcc5b-6cca-44f2-b2d0-e21f18e67f9f",
+            "pair": "F3",
+            "team": "La Roca Salt Lake 2006 Acosta (UT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "df42b261-4bd6-4593-a438-af5e223e7e8c",
+            "pair": "F3",
+            "team": "Sparta 06 JK (UT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "57c7f5ee-0cee-4132-b8f3-4f8e7771cee6",
+            "pair": "F4",
+            "team": "Olympiacos FC Academy B06 (CA-S)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "ad220550-b19b-49ee-b034-5fa59a05ef96",
+            "pair": "F4",
+            "team": "FC United 2006B Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "87171b50-a835-489b-8508-b484498215ee",
+            "pair": "A1",
+            "team": "Philadelphia Ukrainian Nationals 05 Black (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "5948f4f9-566f-4008-bfbf-5fd27775fd98",
+            "pair": "A1",
+            "team": "Liverpool FCIA Central MD 05 (MD)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "729be489-97f6-40eb-9f50-62d36f0b8baf",
+            "pair": "A2",
+            "team": "New England Surf Sky (MA)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "167ebf32-e3fa-48a0-9692-730664a5ba11",
+            "pair": "A2",
+            "team": "Spirit of Liverpool 05 Boys Elite (MA)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "51df3afd-6201-49c6-b136-f35053bec342",
+            "pair": "A3",
+            "team": "MSC Academy 05 (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "a5966e29-cfcf-43aa-b4b1-e8766e2d57f8",
+            "pair": "A3",
+            "team": "Salvo SC 05B Navy (MN)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "40ba33d7-0ac5-44f9-b5ad-4b280b20b45e",
+            "pair": "A4",
+            "team": "SBYSC Leones 05 (TX-S)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "803673a3-54ce-46fd-ae76-e4ad1e81a846",
+            "pair": "A4",
+            "team": "Germantown Legends 05 Black (TN)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "7f906cc0-274a-4f98-929d-034d96406dea",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "71b836c6-b1af-47ba-87dd-677895501464",
+            "pair": "B1",
+            "team": "PDA Shore 2005 Shearer (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "cb96d3ef-6e89-453b-8700-6b58ea2a2d67",
+            "pair": "B1",
+            "team": "CT Rush Elite 05 Boys (CT)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "461bbc5c-d168-481f-b114-279641234451",
+            "pair": "B2",
+            "team": "Novi Jaguars 2005 Green (MI)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "cb179967-62ec-49e3-9b45-1aa5c204dad5",
+            "pair": "B2",
+            "team": "BVB IA - Pittsburgh 2005B (PA-W)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "de99568d-7af4-418c-9d2b-a08f455c814f",
+            "pair": "B3",
+            "team": "FC United 2005 Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "01cc35af-23d2-4365-b7ac-5bc7985b42a2",
+            "pair": "B3",
+            "team": "JB Marine Academy (MO)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "ba54787f-48fb-469b-a025-97abfc0c31a1",
+            "pair": "B4",
+            "team": "PGSA 05 Boys (NC)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "d7546902-49ef-48a9-b176-3281ebf2d391",
+            "pair": "B4",
+            "team": "Lanier SA Archies 05 Navy (GA)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "1728e76f-ff91-4b7a-9019-1b056af3fe75",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "bb5e1733-21cb-493f-ba79-69022265150f",
+            "pair": "C1",
+            "team": "LVU-FPA 2005 Boys Black (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "b7ebbc19-42d4-43cd-aaf9-8e3762d7726c",
+            "pair": "C1",
+            "team": "FC Bucks Dominion 05 (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "1f2a44f1-a553-4e4e-9606-087719f42c82",
+            "pair": "C2",
+            "team": "Ohio Galaxies FC 05 Elite (OH)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "a3eb3224-4664-4508-8f76-c5bebc9b9958",
+            "pair": "C2",
+            "team": "KHA B05 Red (KY)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "b693d7e6-9f92-4cb3-8ab5-363ffd65339b",
+            "pair": "C3",
+            "team": "Galaxy 2005 Boys Blue (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "f921c165-a3aa-4df7-88e7-1d3ca741348c",
+            "pair": "C3",
+            "team": "Libertyville FC 1974 Elite (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "66b96b4f-d357-4cc2-9a9e-e4bbe73e460c",
+            "pair": "C4",
+            "team": "D'Feeters Kicks SC 05 Carrilo (TX-N)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "4d6c8c73-bae9-4877-b23f-3b25ef02d9e6",
+            "pair": "C4",
+            "team": "Inwood SC Houston Dynamo CDP 05 (TX-S)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "6ef798ad-756d-4db0-a827-3b9a5c9e13b7",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "b15ef1f4-e5a3-4f10-8b3d-e3563f0e54fa",
+            "pair": "D1",
+            "team": "Cedar Stars Hudson Valley 2005 NL (NY-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "193f54db-7b1f-4122-b356-0e7c280a99cb",
+            "pair": "D1",
+            "team": "PSC Academy Boys Blue (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "933e36bf-4925-4e35-b42b-d4ed62f64f34",
+            "pair": "D2",
+            "team": "FC Evolution N B05 (OH)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "5f76f894-9dca-47e1-a25d-ee2f8e060d06",
+            "pair": "D2",
+            "team": "Beadling 2005 Boys Showcase (PA-W)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "20391037-46f4-4217-a26b-2fd151803569",
+            "pair": "D3",
+            "team": "Tropical Impact 05 Orange (FL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "aa12ac39-41dc-4939-9ed1-c645ef05bb4f",
+            "pair": "D3",
+            "team": "Pinecrest Premier (FL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "15c290d6-6ab8-417b-ae5f-ea3338956f84",
+            "pair": "D4",
+            "team": "Fullerton Rangers (CA-S)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "a63db5bd-85ed-40d0-be15-407d337c0a44",
+            "pair": "D4",
+            "team": "Celtic Academy Harps (CA-S)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "3bba5012-bd52-42fc-864b-4ba703601f3b",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "4b58a19b-d861-42a6-a28e-2a09252bc091",
+            "pair": "E1",
+            "team": "PSA National 2005 Boys (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "5c8331e6-d25b-4430-9137-1faa71ab51ea",
+            "pair": "E1",
+            "team": "Ironbound SC 05 Super Eagles (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "65c20048-ca33-41e6-905b-736903b28194",
+            "pair": "E2",
+            "team": "Juventus Zoff (FL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "6a5acfa8-b9ed-4b8e-a5c3-df03d53ea114",
+            "pair": "E2",
+            "team": "Azzurri Storm 05 Premier (FL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "6aba68bb-87e7-484c-9b30-c1403bf07ff3",
+            "pair": "E3",
+            "team": "Hattiesburg FC 05 Thunder (MS)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "7ac3f32f-e1c5-47fd-8696-3b1e778a01ee",
+            "pair": "E3",
+            "team": "MS Rush United 05 Premier (MS)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "031bb342-ad0e-4c31-8abe-c7b543888835",
+            "pair": "E4",
+            "team": "LVSA 05 Boys (NV)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "b4791c82-0280-4be6-b61f-28bbb01a2be8",
+            "pair": "E4",
+            "team": "Tuzos Academy 05 (AZ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "675046a5-2774-4678-805b-6dc39fdd1abe",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "626b2176-adf0-4052-b4f4-f7e97f653fb4",
+            "pair": "F1",
+            "team": "BRAUSA United Futbol Club Blue 05 (MD)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "fe39868b-d0ca-432a-9fc9-1aa033c577a7",
+            "pair": "F1",
+            "team": "SAC Pre Academy White (MD)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "3ffadb3b-a47c-4cae-bc66-f20749fcf36c",
+            "pair": "F2",
+            "team": "SC Wave Juniors 05 Boys (WI)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "ea02de93-1998-40b4-bcee-0d585aff7011",
+            "pair": "F2",
+            "team": "Raiders FC 2005 (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "1a52fa2b-09fc-4f28-8ed1-be727e03b97d",
+            "pair": "F3",
+            "team": "United PDX 05B Premier Black (OR)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "0a60e6a6-5708-4f36-aad8-b0d3a8c224f2",
+            "pair": "F3",
+            "team": "Sparta B05 Premier MD/DKJ (UT)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "90dd869c-da9a-4fb4-8b5a-551fcd89ad41",
+            "pair": "F4",
+            "team": "Olympiacos FC Academy B05 (CA-S)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "3b204168-ea73-4f01-b709-bcb91cb64cce",
+            "pair": "F4",
+            "team": "Downey FC (CA-S)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "dcf38ab3-e7f2-4445-b0fc-529d44db1fcd",
+            "pair": "A1",
+            "team": "Potomac Blue 04 (MD)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "8e8a5ad8-63e2-4c13-b600-169af42f6878",
+            "pair": "A1",
+            "team": "McLean 2004 Boys (VA)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "f0a7c818-3125-449c-9ae4-7a0d5b2050a7",
+            "pair": "A2",
+            "team": "South Shore United FC 2004 Bulldogs (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "9ea98f8a-a38a-429d-a7d2-316ac9cc8292",
+            "pair": "A2",
+            "team": "LI Slammers (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "617a2801-59f1-407d-960f-abcf15dae6bb",
+            "pair": "A3",
+            "team": "Hotspurs 2004B Blue (PA-W)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "4fbc4a27-e1e5-4a07-b2ce-53312308ce87",
+            "pair": "A3",
+            "team": "SCS United 2004 Boys Black (PA-W)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "0bead78d-fc0b-4e08-bf6a-cd45ead57e85",
+            "pair": "A4",
+            "team": "Memphis FC Blue (TN)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "b52d1e13-5cb1-4c16-851b-636c2fdc70fe",
+            "pair": "A4",
+            "team": "Germantown Legends 04 Black (TN)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "74975173-bdac-4ee7-afca-8d61badd59ff",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "2210e19d-0dd5-425e-a2d5-6e4e55806eca",
+            "pair": "B1",
+            "team": "Philadelphia Ukrainian Nationals 04 Black (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "415cc1b0-1d73-423c-a008-6ab379ffa08a",
+            "pair": "B1",
+            "team": "Lower Merion SC Invictus (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "6c1c2f29-e3f9-4f13-8580-19621c405b34",
+            "pair": "B2",
+            "team": "Team Challenger FC B04 Black (OH)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "d229817a-553d-456d-bd68-d276419678b9",
+            "pair": "B2",
+            "team": "CUP 04 Gold (OH)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "12060ef6-7719-4b41-8733-cc93a80d51ff",
+            "pair": "B3",
+            "team": "KCSG Academy 04 (MO)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "6e12ab13-c6b6-4f07-8e5c-492cf652f28c",
+            "pair": "B3",
+            "team": "Chicago FC United 2004 Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "0eb59b19-3b77-4b10-83cc-da642c4f67b1",
+            "pair": "B4",
+            "team": "Chelsea East SC 04 (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "8698b559-ab0a-47e7-b8e3-64234c0f14a7",
+            "pair": "B4",
+            "team": "DKSC 04 Herrera (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "7b073d75-ff89-44a1-b65b-a5917e93df69",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "a2f54400-10e7-4cb0-a8ff-4e05cc47168e",
+            "pair": "C1",
+            "team": "FC Bucks Dominion 04 (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "3fd1c835-329a-4938-8a95-0a9227484175",
+            "pair": "C1",
+            "team": "Cedar Stars Academy Newark 2004 (NJ)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "155dd4cc-1546-43ea-9977-20e87ad3d840",
+            "pair": "C2",
+            "team": "Galaxy 2004 Boys Yellow (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "fe79cbe6-6e31-49ec-b7c3-712181b26dfb",
+            "pair": "C2",
+            "team": "JB Marine 04 Academy (MO)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "5181d8af-3c89-4eb6-9ca1-4e527c53c2cf",
+            "pair": "C3",
+            "team": "Nationals Union 04 Black (MI)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "f0a48ad0-7d91-4998-b9ac-a37c821bfabc",
+            "pair": "C3",
+            "team": "Michigan Jaguars 2004 Boys NLC (MI)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "659d9876-262c-41d9-abd5-43dfb0a7e1eb",
+            "pair": "C4",
+            "team": "South Carolina United FC 04 (SC)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "136c75c3-2f67-479b-b1cb-536e7e62201e",
+            "pair": "C4",
+            "team": "Triangle United SA 04 Wake Blue (NC)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "2f44aaef-8c84-4a32-bdfa-daec298736f3",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "04c95e6e-ddb2-4293-ae7e-dbe025b99d2e",
+            "pair": "D1",
+            "team": "PDA Hibernian Modric (NJ)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "af9ecd5c-6c4a-40e9-8c4b-f5ff4cdfd48b",
+            "pair": "D1",
+            "team": "Penn Alliance Select Elite 04 (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "1819fb8b-21e5-4fe0-b629-ffc5e6e2eacb",
+            "pair": "D2",
+            "team": "Inwood SC Houston Legends 04B (TX-S)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "6d093759-dc9c-4526-a00a-39282aa9d33b",
+            "pair": "D2",
+            "team": "Baton Rouge SC 04 Black (LA)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "b2934079-db61-44eb-afdf-4a3ef917a236",
+            "pair": "D3",
+            "team": "Juventus Zidane (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "1c0914e4-8819-43c9-8226-6187f8630649",
+            "pair": "D3",
+            "team": "Four Corners 04 Red (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "2c2339fe-a6c2-4011-b3c5-1b7c8750d063",
+            "pair": "D4",
+            "team": "Real Jersey FC 04 (NJ)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "d31f935f-cd7c-45d2-b59c-b51260d08f30",
+            "pair": "D4",
+            "team": "AVSC Storm Academy Boys 04 (CA-S)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "6189a367-4c05-468f-86a9-8f50ea1d39d6",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "cc609eee-b956-476a-aa5f-8dd73e23ee0f",
+            "pair": "E1",
+            "team": "SDA 04 Orange (NY-W)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "5c4d6fb6-3364-46b1-8bca-0a6b7c07b5ed",
+            "pair": "E1",
+            "team": "FC Somers Arsenal (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "5afee6e5-1815-44fb-923d-7f7527033557",
+            "pair": "E2",
+            "team": "SC Wave Juniors 04 Boys (WI)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "fa07123a-bac9-4463-8be3-d6d8dfbe0082",
+            "pair": "E2",
+            "team": "Raiders FC 2004 (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "18318d48-1479-41fd-b093-a1d2c7d89418",
+            "pair": "E3",
+            "team": "Strikers Miami FC Elite (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "66172734-2451-4ae7-897c-a0e4ef11c3d2",
+            "pair": "E3",
+            "team": "Inter Fuzion Lions 04 (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "126b62c3-6eec-4a50-8c0b-ea296a0e1365",
+            "pair": "E4",
+            "team": "Sparta 04 JK (UT)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "c17bdcdf-bc34-4ef8-b1f5-884c9e28ef2f",
+            "pair": "E4",
+            "team": "USA Premier 04B JP (UT)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "44ee4482-15c6-49fd-a3c0-73ecc504a506",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "42f231b7-426e-4b3c-a72b-c31bd97f9dd2",
+            "pair": "F1",
+            "team": "Paragon Futbol Academy 2004B Red (MD)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "9e69beb9-e1ae-457f-a57b-4b1ccd9db710",
+            "pair": "F1",
+            "team": "BRAUSA United Futbol Club Blue 04 (MD)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "d0c266fd-9a00-46d5-b570-eedcb5fd9c83",
+            "pair": "F2",
+            "team": "SLSG 2004 Elite (MO)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "c84b217a-5c83-4965-9c28-0d43a81028ec",
+            "pair": "F2",
+            "team": "Unified Bayern Munich 04 (MO)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "f8fb8769-7104-4511-8b37-f96074fd312c",
+            "pair": "F3",
+            "team": "Downtown 04  LVSC GOLD (NV)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "6fc8d174-a447-4b42-a8e9-822a472039ef",
+            "pair": "F3",
+            "team": "Los Angeles Soccer Club - B2004 Bravo (CA-S)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "c2ce5971-b5d2-4dfd-ab05-575fd39cd162",
+            "pair": "F4",
+            "team": "Sound FC B04A (WA)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group F",
+            "id": "dd92aff2-2dca-468a-84fb-a789d93526c3",
+            "pair": "F4",
+            "team": "United PDX 04B Black (OR)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "f42704df-0f73-4ab0-950b-5548868c005f",
+            "pair": "A1",
+            "team": "SYC 03 Blue (VA)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "751107a0-fcd2-4b69-ad60-43a13978fbb0",
+            "pair": "A1",
+            "team": "Future Monarchs (MD)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "9c76beb3-2140-449a-8e90-07e04887b3a0",
+            "pair": "A2",
+            "team": "03 Club CUP Elite (OH)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "c582bfae-f54f-4b63-ae57-6b130ed99056",
+            "pair": "A2",
+            "team": "Ohio Galaxies FC 03 Elite (OH)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "9ac9a4e0-f212-4631-8a88-cb7969749334",
+            "pair": "A3",
+            "team": "Indiana Fire Juniors 03B Red (IN)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "da88827b-0392-4e99-bddc-7990f67577fe",
+            "pair": "A3",
+            "team": "Chicago FC United 2003 Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "3c6c57c8-5652-4532-99f6-d7885ebe433a",
+            "pair": "A4",
+            "team": "FC Dallas 03B Premier (TX-N)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group A",
+            "id": "2033fcda-9a45-463e-af3e-acc54e1f5f1d",
+            "pair": "A4",
+            "team": "Germantown Legends 03 Black (TN)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "3147584d-b982-4bfe-b602-4958bbfad500",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "9c4c0b9d-a519-476c-920b-f2c636bdbceb",
+            "pair": "B1",
+            "team": "LVU-FPA 2003 Boys Black (PA-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "de697386-6e44-40bf-b771-78dde2068129",
+            "pair": "B1",
+            "team": "Philadelphia Ukrainian Nationals 03 Black (PA-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "d1619911-ef60-47dd-b759-b8c3dfe3f977",
+            "pair": "B2",
+            "team": "Nationals Union 03 Boys Black (MI)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "a6617641-6691-4430-917c-ab9fd5445f7c",
+            "pair": "B2",
+            "team": "Century Boys 2003 Gold (PA-W)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "79b557a8-078b-4794-bed1-e64f8d376cfd",
+            "pair": "B3",
+            "team": "Team Boca (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "89381719-714d-4b05-8903-4c0935350caa",
+            "pair": "B3",
+            "team": "CTC Bandits 2003 Palau Black (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "8948df80-0776-4343-a100-fad2d0cd6946",
+            "pair": "B4",
+            "team": "Triangle United SA 03 Wake Blue (NC)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Male",
+            "group": "Group B",
+            "id": "ef44bfb1-61a5-45cd-9806-26be6d6201eb",
+            "pair": "B4",
+            "team": "CASA Pride 03 Boys Premier (SC)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "00251857-0f3f-4916-ab42-6a46743da091",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "9c04ebf3-fede-4dd7-9d98-535fc45f6aca",
+            "pair": "C1",
+            "team": "STA (NJ)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "e29a0d70-78d7-4858-82f7-382b8a5d7322",
+            "pair": "C1",
+            "team": "Lake Grove Newfield Dynamite (NY-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "193dcec5-1f82-4bfa-b41f-5a70c09f04ec",
+            "pair": "C2",
+            "team": "SLSG 2003 Elite (MO)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "9d088c3f-3266-48b6-a4cb-000eced24cd8",
+            "pair": "C2",
+            "team": "Chicago Magic MCL (IL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "26bf96a3-6023-4d00-91f2-5dd323e9815e",
+            "pair": "C3",
+            "team": "Solar SC Sawyer 03B (TX-N)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "2915599f-5459-48a0-a533-b9198f7a1668",
+            "pair": "C3",
+            "team": "FC Dallas 03B West (TX-N)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "9c6675ca-14bc-460e-b9bc-3cf5a84b2429",
+            "pair": "C4",
+            "team": "DTLA SC 03 Black (CA-S)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group C",
+            "id": "1b21db2e-d141-4ce3-8630-21d76f668c6b",
+            "pair": "C4",
+            "team": "LASC B03 Araya (CA-S)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "a8360554-0c7b-4bdb-88f1-52c0dbf31a29",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "9fb719a0-3999-49b1-ada0-17f2dc1f382e",
+            "pair": "D1",
+            "team": "Bethesda SC Blue 03 (MD)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "de2f406c-2df9-4548-90d9-4677d0607402",
+            "pair": "D1",
+            "team": "FC USA 03 Blue (MD)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "f518f93b-2c28-490f-b13e-8a01469fdc8a",
+            "pair": "D2",
+            "team": "Milwaukee Bavarians (WI)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "9d83eff4-6875-4128-8052-fe6c1a412a89",
+            "pair": "D2",
+            "team": "Kingdom SC 03 Red (MI)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "85a3b5dd-132f-41de-a958-87e2cec9f44c",
+            "pair": "D3",
+            "team": "Pinecrest Premier 2003 Blue (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "4a192790-c43f-460e-aca9-ea3bae4bdc57",
+            "pair": "D3",
+            "team": "Miami Strikers 03 Boys (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "337e1119-9ac8-4888-a4e5-e3f0cb1c6fa4",
+            "pair": "D4",
+            "team": "La Roca KW (UT)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group D",
+            "id": "056adb55-960d-40e6-8cb6-40d22c26ce93",
+            "pair": "D4",
+            "team": "USA Premier 03 - JP (UT)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "",
+            "event2": "",
+            "gender": "Male",
+            "group": "",
+            "id": "e4e6cac6-b6b7-4385-8a90-b34681e08220",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "823748fd-da34-46ff-a57c-afa611997512",
+            "pair": "E1",
+            "team": "Radnor SC (PA-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "c62e8883-326e-4fc8-a01e-be7554f589d8",
+            "pair": "E1",
+            "team": "CASA 03M United (PA-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "fe232c04-4e8a-4d5f-a167-e56f1d8caae6",
+            "pair": "E2",
+            "team": "Beadling 2003 Boys Showcase (PA-W)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "2cd86024-e648-47e6-ae07-ae9f10284fd3",
+            "pair": "E2",
+            "team": "TFA B03 Elite (OH)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "78715ef5-737d-4b99-8eb7-145f386f5e62",
+            "pair": "E3",
+            "team": "Jacksonville FC 03 (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "ae4ea8f9-20ed-4002-9f49-389b3540ad0d",
+            "pair": "E3",
+            "team": "Leg-A-Z Caimans (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "dbce3eb7-4f1e-48c6-9215-76d52df340d2",
+            "pair": "E4",
+            "team": "Westside Copa Red (OR)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Male",
+            "group": "Group E",
+            "id": "818fcc97-0da7-4a62-877c-d16aa5113536",
+            "pair": "E4",
+            "team": "Santa Barbara SC (CA-S)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "710e3129-7ca0-45ca-ac87-87200e35183b",
+            "pair": "A1",
+            "team": "FC Somers Lady Hammers (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "ba1b1f87-29df-41be-9ff7-35919fb14bf1",
+            "pair": "A1",
+            "team": "NJ Premier FC 2008 Girls (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "79fc26ab-6af8-46a2-a43a-855a65d310c0",
+            "pair": "A2",
+            "team": "Rochester Lancers 2008 Girls (NY-W)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "78dc05ae-b379-4fb9-b955-2a2927b0ac35",
+            "pair": "A2",
+            "team": "Michigan Tigers 2008 Girls Gold (MI)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "b693988a-fffe-4aad-83a0-c382cd111a66",
+            "pair": "A3",
+            "team": "Dallas Texans 08G FDL - Diaz (TX-N)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "2441b262-7ec0-40c9-a78e-94176ec500a5",
+            "pair": "A3",
+            "team": "Solar 08 Hernandez (TX-N)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "95525729-e7cd-4fa4-9d8b-6f4762db7201",
+            "pair": "A4",
+            "team": "La Roca 08 FD (UT)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "be5ec843-c13f-421f-a056-8ff96f1f8db4",
+            "pair": "A4",
+            "team": "Penn FC Youth 08 Black (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "35125fb8-9e44-469a-906e-0ff9c09083db",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "0c995a24-8f8d-488e-87fb-a547606dfd43",
+            "pair": "B1",
+            "team": "Real Jersey 08 (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "9fe70a56-a0ee-4f4c-941d-a3b2d1926a24",
+            "pair": "B1",
+            "team": "NLSA 08 (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "fed9691e-7e51-4c30-8c0a-84510735d8b2",
+            "pair": "B2",
+            "team": "Galaxy 2008 Girls Blue (IL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "c6a1c2b0-2696-4105-8847-552a432ebdaa",
+            "pair": "B2",
+            "team": "KC Fusion Academy 08 (KS)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "a0730dca-9963-4eba-ad8a-a5c708cbbcb8",
+            "pair": "B3",
+            "team": "West Florida Flames (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "507c4de8-3871-4524-ba7a-bba15e2b832f",
+            "pair": "B3",
+            "team": "Alleycats 2008G NL Red (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "04b3d26c-3598-4164-b52e-bfe454951b2a",
+            "pair": "B4",
+            "team": "Solar SC South 08G FDL Adames (TX-N)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "6164651b-f486-48a0-8c57-68207f2711d1",
+            "pair": "B4",
+            "team": "LSC - FC Westlake 08G FDL (TX-S)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "955d66c7-e9a2-420b-991f-ce0c7d22fff4",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "e566a1c0-dd92-43e3-86e2-ca152239781c",
+            "pair": "C1",
+            "team": "Next Level Soccer Athena 08 White (MD)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "66c57ce8-95ca-4730-8f76-6214d0f780d9",
+            "pair": "C1",
+            "team": "Lancaster Elite Atoms (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "64115dc8-2ee7-4845-83aa-b4b91b3aebee",
+            "pair": "C2",
+            "team": "CUP 08 Gold (OH)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "d66887eb-1d97-4b38-8b5d-ef194f555719",
+            "pair": "C2",
+            "team": "TFA G08 Elite (OH)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "010f9325-193a-4760-a964-9ffd153dc118",
+            "pair": "C3",
+            "team": "Team Boca SABR 08 White (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "c2fdd836-e9d7-442a-8507-ca5d2d20c95b",
+            "pair": "C3",
+            "team": "Brevard Soccer Academy (FL)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "0d147227-8922-491a-aaaf-b5e7b8c58d93",
+            "pair": "C4",
+            "team": "Washington Rush G08 (WA)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "6c69e655-038a-4433-a081-de691a1a8c9b",
+            "pair": "C4",
+            "team": "United PDX 08G Premier Black (OR)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "7da98d54-15de-4eb3-b84f-fc7adfeedbeb",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "330977dc-04c7-416e-93af-04b845729517",
+            "pair": "D1",
+            "team": "New England Surf State Navy (MA)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "9a6d8b2d-b377-4133-b150-606db128e26e",
+            "pair": "D1",
+            "team": "Auburndale SC Strikers 2008 (NY-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "62f28144-6425-417e-9aab-927ed4863fd0",
+            "pair": "D2",
+            "team": "PSA North 08 Orange (NJ)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "98866d7b-c6aa-4d66-b488-19f1f6d5f7c9",
+            "pair": "D2",
+            "team": "YMS Premier Spirit (PA-E)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "d6427724-571f-41bb-9c5a-957c61fb1bf5",
+            "pair": "D3",
+            "team": "GTFC Impact Girls 08 Premier (OH)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "512a6474-3a9a-4cee-9102-a29970283605",
+            "pair": "D3",
+            "team": "Indy Premier SC 08G Elite I (IN)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "1c56e798-7471-4b4e-8624-3e21648c873f",
+            "pair": "D4",
+            "team": "Germantown Lady Legends 08 Black (TN)"
+        },
+        {
+            "age_group": "14U",
+            "event1": "Texas",
+            "event2": "ChampionsGate",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "3f33e0d8-c16c-4614-857f-f89e53c254df",
+            "pair": "D4",
+            "team": "Brandon FC 08 Premier (MS)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "a7633637-faec-42da-b7ac-4f94a5a01dd5",
+            "pair": "A1",
+            "team": "Ginga FC Girls 2007 Elite (CT)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "f54a79ff-e08a-4134-976b-d695670e6cfe",
+            "pair": "A1",
+            "team": "Dynamite Academy WSC 07G (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "9217fa97-2f7d-46c2-b27f-02ee85c58338",
+            "pair": "A2",
+            "team": "Evolution 07 Girls Mercurial (IL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "a3d1a9de-112c-47f6-b644-827c5cace896",
+            "pair": "A2",
+            "team": "Galaxy 2007 Girls Blue (IL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "cd14e53d-0c0a-4c13-8b0b-e060c96d0ef2",
+            "pair": "A3",
+            "team": "AJAX Academy (MO)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "d708501f-6aab-42e9-acc5-d66ffbebad64",
+            "pair": "A3",
+            "team": "Nationals TriCounty 07 Girls Black (MI)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "64e5e40d-549e-4cc0-bce7-e15ebe1229ee",
+            "pair": "A4",
+            "team": "Westlake 07G Elite (TX-S)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "2f0106c3-2db7-4a02-bd5b-11ffaa311d90",
+            "pair": "A4",
+            "team": "Solar SC 07 Byars White (TX-N)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "2fbe79c5-15da-4f62-ad70-3a8711c8f9de",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "a4fc4fe9-9098-4e05-8828-8950ea2ed5b7",
+            "pair": "B1",
+            "team": "Real Jersey FC 2007G (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "6d036346-67c1-4d56-aaab-7d0544edfe4c",
+            "pair": "B1",
+            "team": "LMSC Furia (PA-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "7a643000-f4c0-40fb-870b-fdb67491f918",
+            "pair": "B2",
+            "team": "Coppermine SC Girls 2007 Premier (MD)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "a646209e-72e4-4c19-a219-e3202392a93c",
+            "pair": "B2",
+            "team": "OPSA Magic 07 (MD)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "caf949d8-42be-4ca8-b88f-246ad033281b",
+            "pair": "B3",
+            "team": "Nationals Union 07 Girls Black (MI)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "e3827387-9665-4178-8503-12718f725553",
+            "pair": "B3",
+            "team": "2007 Ela Elite 1 (IL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "1811956d-8abc-4b12-89c8-0d1d861b5311",
+            "pair": "B4",
+            "team": "Solar SC South 07G FDL Adames (TX-N)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "0de86c02-8907-489d-91b6-57040d383365",
+            "pair": "B4",
+            "team": "LSC- FC Westlake 07G FDL (TX-S)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "d5742d8c-1260-4444-995c-76c67764dd78",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "fe80f486-4f03-4370-a034-7db4cf4a93f4",
+            "pair": "C1",
+            "team": "NY Surf G07 Academy Blue (NY-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "05448aa3-0b39-45e1-b49d-ee436807b3a3",
+            "pair": "C1",
+            "team": "Alleycats 2007G NL Red (NY-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "932e9107-5630-4b23-906e-a0b8462dfa63",
+            "pair": "C2",
+            "team": "TFA G07 Elite (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "9d9919f4-cf20-44e4-aaa8-e42290c4e557",
+            "pair": "C2",
+            "team": "KHA North 07G Red (KY)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "223f7451-8566-401b-8b0d-c43b16aaaec2",
+            "pair": "C3",
+            "team": "Collierville SA 07 Lady Lobos Rush Premier (TN)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "7bba68a1-da46-43cd-8552-531846db539d",
+            "pair": "C3",
+            "team": "MS Rush 07 Premier (MS)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "eb96b7df-c024-4335-bf9c-b81c6ae5264f",
+            "pair": "C4",
+            "team": "Wasatch SC 07 G (UT)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "cd2b7e8e-89b0-40da-920f-5f89befb18dd",
+            "pair": "C4",
+            "team": "Impact 07 PB (UT)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "2be23253-e235-48f9-b85b-629b576af996",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "933faf0b-e44d-48f4-8f20-1a0cf2568897",
+            "pair": "D1",
+            "team": "FC Copa Academy Girls 2007 Grey (NJ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "4859e992-c7d1-4557-936d-a99f3e1b6780",
+            "pair": "D1",
+            "team": "Force FC G07 NL (NY-E)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "5faa58b1-3342-40d3-aef5-b4ea1834727f",
+            "pair": "D2",
+            "team": "GTFC Impact Girls 07 Premier (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "d391c642-0c4e-49f1-b98b-6fbe16a670cb",
+            "pair": "D2",
+            "team": "CUP 07 Gold (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "9444c207-9cbe-425d-88ce-572976c63efe",
+            "pair": "D3",
+            "team": "Key Biscayne (FL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "6073c621-368b-47fd-942a-fff648ab0418",
+            "pair": "D3",
+            "team": "South Florida FA/Boynton Knights 07 (FL)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "048fc4eb-8040-415e-bfff-d6f1ab4ce366",
+            "pair": "D4",
+            "team": "AZSC 07G Gwinnett (AZ)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "01af3a19-0ce5-4729-86b2-b5c88b5b9fff",
+            "pair": "D4",
+            "team": "Vegas United 07 (NV)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "7dd453fb-22c2-4685-8b8f-0aa0d42529ab",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "2647e478-86ca-439c-a04c-18ef09c86daa",
+            "pair": "E1",
+            "team": "Team Challenger FC G07 Black (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "90057732-2eeb-4d32-994c-2f290782effe",
+            "pair": "E1",
+            "team": "Club Ohio Dayton G07 Green (OH)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "4806cecf-6d96-4820-877f-2e98b3428919",
+            "pair": "E2",
+            "team": "DKSC 07G Vielma Black (TX-N)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "e58bfe0e-d16c-4a8c-9295-21cb70e35682",
+            "pair": "E2",
+            "team": "Dallas Texans 07 Red West FDL Ewing (TX-N)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "b18a73d0-b584-405b-a90d-3bab2ecc7073",
+            "pair": "E3",
+            "team": "Washington Rush G07 (WA)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "3288e2c9-1a96-48b8-9e7d-403393c4cdb6",
+            "pair": "E3",
+            "team": "United PDX 07G Premier Black (OR)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "2037e12e-b229-4c9b-aa61-4231c5d18555",
+            "pair": "E4",
+            "team": "ID Rush 07 (ID)"
+        },
+        {
+            "age_group": "15U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "b75ec173-f6c7-4536-9dae-cf9b38899289",
+            "pair": "E4",
+            "team": "Utah Surf 07 JC (UT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "17d2d41e-8dcf-461e-b873-3be0409c4eb4",
+            "pair": "A1",
+            "team": "Real Jersey FC 2006G (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "6865d7d9-c6e9-4f5a-8fa6-6ae6e1c89e7b",
+            "pair": "A1",
+            "team": "FC Revolution Reds (PA-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "f9313292-5afa-4774-94a3-4a5cc74cddba",
+            "pair": "A2",
+            "team": "Chicago Inter 2006 Red (IL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "c766e7c4-a468-4315-86d9-462499a7bc42",
+            "pair": "A2",
+            "team": "Chicago FC United 2006 Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "7ca6ed81-61a1-406b-9b5a-e84fd67d16c7",
+            "pair": "A3",
+            "team": "MFJ 06 Navy (MI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "40223b5c-5d2a-42ce-a470-3e877779ba28",
+            "pair": "A3",
+            "team": "Michigan Tigers 2006 Girls Gold (MI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "96bb5afb-6394-4ff2-b76d-b3ead000b0c2",
+            "pair": "A4",
+            "team": "Lonestar SC FDL (TX-S)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "55715e65-279d-4c4a-90c8-b181c221cc0d",
+            "pair": "A4",
+            "team": "LSC-FC Westlake 06G FDL (TX-S)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "7f894023-a939-4e39-836c-856dd17beda7",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "63d558b8-001b-4a1d-afcd-ec17590e3dae",
+            "pair": "B1",
+            "team": "Coppermine SC Girls 2006 Premier (MD)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "064a6dc2-ff91-47f4-9ae2-05231b996e33",
+            "pair": "B1",
+            "team": "FCGB CoE 06 (MD)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "86ca2a51-ef26-444f-b33a-ebf83ca87e23",
+            "pair": "B2",
+            "team": "Libertyville FC 1974 Elite 06 (IL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "2ca5b582-4797-4689-8ea1-d7aa4f8ddcda",
+            "pair": "B2",
+            "team": "Nationals Union 2006 Girls Black (MI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "64a4e2fb-63e0-459c-b555-2150437973ac",
+            "pair": "B3",
+            "team": "Alliance Academy Extreme 06 (MO)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "38374286-e93b-4b38-8cb9-74564efce43a",
+            "pair": "B3",
+            "team": "Rockford Raptors FC 06 (IL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "c5406b5b-6410-47d2-a613-3a70dca0787c",
+            "pair": "B4",
+            "team": "WYSA 06G Explosion (NC)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "06cc2fd7-1029-49da-bd1d-6f3b6bcf1adf",
+            "pair": "B4",
+            "team": "Georgia Impact SC 06 Elite (GA)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "a99b0a8d-7bb2-416f-a1d7-b725e470eb57",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "01d4ba42-8cfc-48cf-8f42-cfc8ec8ca469",
+            "pair": "C1",
+            "team": "Lower Merion SC Impact (PA-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "f74473c3-197f-4115-878e-904ae7cf7e7a",
+            "pair": "C1",
+            "team": "NJ Premier F.C. 2006 Girls (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "41f9a696-d400-404d-8cbd-dfaf0c799510",
+            "pair": "C2",
+            "team": "Madison 56ers 2006 Girls Red (WI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "8cebc8e9-e34c-45b6-a849-c3f1ad24c032",
+            "pair": "C2",
+            "team": "North Shore United 2006 Girls Blue (WI)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "60685745-6f6d-49c4-a436-107a0bfaf1e3",
+            "pair": "C3",
+            "team": "SLSG 06 (MO)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "75225e7f-ee66-4a91-a461-33866ef743b6",
+            "pair": "C3",
+            "team": "KC Athletics Academy Premier 06G (KS)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "532d5cdf-508e-4766-a941-423e578a2823",
+            "pair": "C4",
+            "team": "Wellington SC 06 (FL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "77c020cb-3976-477f-ba49-8ef4661ff126",
+            "pair": "C4",
+            "team": "Gulf Coast Texans 06 (FL)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "2a31481d-41b1-410d-9996-7d3702efb225",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "0c0712f1-9bc5-4f91-9f87-74e14fd7bba1",
+            "pair": "D1",
+            "team": "CT Rush Elite 06 Girls (CT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "ca26ed05-f60a-4d02-9885-3d7552f055e2",
+            "pair": "D1",
+            "team": "Yankee Attack NL 06 (CT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "e119c542-834c-4c85-b827-c1cc32b424f1",
+            "pair": "D2",
+            "team": "Syracuse Development Academy 2006 (NY-W)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "78ccf9d4-a635-4691-bd2c-e9f767e9e766",
+            "pair": "D2",
+            "team": "Alleycats 2006G NL Red (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "de85138e-2461-4255-a825-6557c4d33ce3",
+            "pair": "D3",
+            "team": "CUP 06 Gold (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "7c516cfa-5c7b-4592-b117-f4ab9846ce32",
+            "pair": "D3",
+            "team": "TFA G06 Elite (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "39e2d1a0-312a-4571-a031-d47293051088",
+            "pair": "D4",
+            "team": "FC Dallas 06G Premier West (TX-N)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "46cf7223-c8b1-4527-888e-29ea0f19734d",
+            "pair": "D4",
+            "team": "DKSC 06 Monk (TX-N)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "44c9ce3c-ad60-48ec-ac89-d575ab0197df",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "8abce378-7fbf-47b3-be0b-2318427ac3a7",
+            "pair": "E1",
+            "team": "RUSA FC 06 Gold (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "4db102e8-6f83-4818-95a9-3d45c617aeb6",
+            "pair": "E1",
+            "team": "Maryland Rush SOMD Rush 06G (MD)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "cec79f27-d5f4-41cb-9e36-4440fff36d94",
+            "pair": "E2",
+            "team": "Clarkstown SC 2006 Girls Elite (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "c96885de-4529-4d54-bfc4-cb56448ab9f6",
+            "pair": "E2",
+            "team": "Force FC G06 NL (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "ecbe81d3-f8a9-4d68-93b3-94eb18a32f54",
+            "pair": "E3",
+            "team": "Century V - Steel G2006 Blue (PA-W)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "78dfee3f-3b31-4c83-94d2-115ae0f7000a",
+            "pair": "E3",
+            "team": "Indy Premier SC 06G Elite I (IN)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "1b664248-bf16-48b9-afee-7262ba980106",
+            "pair": "E4",
+            "team": "Baton Rouge SC 06 Black (LA)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "86422611-d7a6-4eb9-b9d5-f235dd2102d8",
+            "pair": "E4",
+            "team": "Collierville SA 06 Lady Lobos Rush Premier (TN)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "8643a298-ca60-4370-8718-4e571e87ebf8",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "8fe8d5c7-9b30-45b3-b4a4-1bff560d77eb",
+            "pair": "F1",
+            "team": "NY Surf G06 Academy (NY-E)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "f38520a6-edae-4d74-a976-144573f1a179",
+            "pair": "F1",
+            "team": "FC Copa 06 Black (NJ)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "cf3f241e-59d7-49de-9a23-e9ae51d66665",
+            "pair": "F2",
+            "team": "FOSC G06 Elite (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "62866961-b79a-4e3e-8700-47c4ac6868b3",
+            "pair": "F2",
+            "team": "Club Ohio 2006G Green 1 (OH)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "ab5ada3c-384a-4faa-8d76-d6124367ce6f",
+            "pair": "F3",
+            "team": "FC Dallas 06 Premier (TX-N)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "f3e53c7d-535b-42ab-b556-d611a20fdf0f",
+            "pair": "F3",
+            "team": "Solar SC South 06 FDL Adames (TX -N)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "05a7abf9-b268-4c6c-90fb-e9e74eba1338",
+            "pair": "F4",
+            "team": "Utah Soccer Alliance 06G (UT)"
+        },
+        {
+            "age_group": "16U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group F",
+            "id": "3c999415-2b1f-40cb-a5cc-ea5f17c4f470",
+            "pair": "F4",
+            "team": "AC Brea 06 (CA-S)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "5795a872-ea23-443e-8b60-7bfdcb3c24be",
+            "pair": "A1",
+            "team": "FC Europa 05 Elite (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "3aa9415a-f3c6-433f-a245-44a7b1147ad3",
+            "pair": "A1",
+            "team": "Patriots FC 2005 (NY-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "1cb1ae6d-e5fd-4f50-a352-8108fe939755",
+            "pair": "A2",
+            "team": "Virginia Union 05 Composite (VA)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "4004e3f8-13c5-4a0a-a8eb-9b85bcd744b4",
+            "pair": "A2",
+            "team": "Coppermine SC Premier 2005 (MD)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "8dc7f01e-9ff0-4558-945f-be7ed1c2aca1",
+            "pair": "A3",
+            "team": "Chicago Inter 2005 Red (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "d7c8383c-bc1c-4409-a191-d2a2567aff28",
+            "pair": "A3",
+            "team": "Lou Fusz Athletic Tottleben 05 (MO)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "7935c815-51b9-4efc-bc9d-695efc53d688",
+            "pair": "A4",
+            "team": "Tormenta FC 2005 Girls (SC)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "78b86eda-6545-4608-997d-d8667f32674e",
+            "pair": "A4",
+            "team": "All-In FC 05 G NL Elite (GA)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "9708e29a-9b52-4b4d-a56f-39aa07214962",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "add8c27d-fba6-4524-98fc-980866b05045",
+            "pair": "B1",
+            "team": "NJ Nationals 05 (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "474297e1-0126-4899-a706-8739dbaf9b82",
+            "pair": "B1",
+            "team": "Warrington FC United (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "71a2cc22-4b1f-480e-ba3f-507f6c42c200",
+            "pair": "B2",
+            "team": "NJ Premier 2005 (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "07b809ca-5968-4bda-b378-fb90ea414690",
+            "pair": "B2",
+            "team": "Real Jersey FC 2005G (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "cb6ce327-9351-4c97-92f2-b25e46b0be6d",
+            "pair": "B3",
+            "team": "North Shore United 2005 Blue (WI)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "b3f39113-c721-48da-9256-572c30655f41",
+            "pair": "B3",
+            "team": "Madison 56ers 2005 Girls Red (WI)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "6796ebb0-2de4-4f75-b542-cdfa457f63a0",
+            "pair": "B4",
+            "team": "FC Dallas Youth 05 Premier - Fondren (TX-N)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "4da1415a-e00f-477c-9c37-ba008d3052db",
+            "pair": "B4",
+            "team": "Collierville SA 05 Lady Lobos Rush Premier (TN)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "f72623a6-868e-4020-b84b-17ad6d855593",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "ae9848f6-2a65-4e2f-b99a-7c3ce3216234",
+            "pair": "C1",
+            "team": "Philadelphia SC Coppa Rage 05 (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "06c839fb-3a0d-488e-ba84-8d0b77efcf30",
+            "pair": "C1",
+            "team": "Penn FC Youth 2005 F Black (PA-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "99e597e5-523b-4873-8882-9de231010906",
+            "pair": "C2",
+            "team": "Kingdom SC 05 Red (MI)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "7fbe1dd6-b7df-4dbc-b4ad-75d21b1417a7",
+            "pair": "C2",
+            "team": "Galaxy SC 2005 Blue (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "e6c0bd6f-4ccd-473c-9be7-1851413cf64a",
+            "pair": "C3",
+            "team": "Nationals Union 05 Girls Black (MI)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "b12bf06c-486d-498e-b75e-add4f74da42b",
+            "pair": "C3",
+            "team": "Chicago FC United 2005 Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "e64dc9d2-2869-402a-93b7-aafa8f0cfb21",
+            "pair": "C4",
+            "team": "Solar SC South 05 FDL Adames (TX-N)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "d214250c-6e03-4c9e-be71-df81b1f05188",
+            "pair": "C4",
+            "team": "DKSC 05G Weir (TX-N)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "618b253c-b188-47d3-8f04-638ca60cf683",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "44550f39-646d-480d-b2b1-8d0fae57fbcc",
+            "pair": "D1",
+            "team": "NY Surf G05 Academy Blue (NY-E)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "cbdece48-91c7-46f8-a5c1-1dc4a0028c8b",
+            "pair": "D1",
+            "team": "STA-MUSC 2005G NL (NJ)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "4e8dac54-c917-44b8-94dc-621dc3543799",
+            "pair": "D2",
+            "team": "CUP 05 Gold (OH)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "52973ed9-d3a2-4fe3-b303-67a3c5c0d991",
+            "pair": "D2",
+            "team": "TFA G05 Elite (OH)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "91d5a13c-ce4e-4f84-a067-baf7ae2a8e2e",
+            "pair": "D3",
+            "team": "Gulf Coast Texans 05 Girls (FL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "f96201c8-be9f-4da3-befd-ba8aa43f25cc",
+            "pair": "D3",
+            "team": "Treasure Coast United/Massive (FL)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "d60eda76-9060-45b4-8579-c5f755dbeeb3",
+            "pair": "D4",
+            "team": "LA Fire Juniors 05 Red (LA)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "534a6b90-534f-4dc7-9fc8-254b6f08b387",
+            "pair": "D4",
+            "team": "NUSA 05 Girls Maroon (TN)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "bdcd527e-2982-4af7-b580-741baf6d5c26",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "2939d3bc-1b34-4962-bab9-7795e8036ce0",
+            "pair": "E1",
+            "team": "Syracuse Development Academy 05G (NY-W)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "9197b0fd-6222-4dbd-a682-c9ccc81ebaeb",
+            "pair": "E1",
+            "team": "FC Dynamo ROC G2005 (NY-W)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "2628dc6b-f5b3-4c73-b3b4-aa82aa6e87e6",
+            "pair": "E2",
+            "team": "Tonka Fusion Elite 05 Girls (MN)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "ba042648-dde4-4e34-8dab-81f49f3d1527",
+            "pair": "E2",
+            "team": "Hotspurs 2005G Blue (PA-W)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "811fe3a2-19e6-4791-b379-cbc7395afcce",
+            "pair": "E3",
+            "team": "Sting SC 05 Roach (TX-N)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "3aca713a-68b9-48dd-a8be-14faf9b1b8ff",
+            "pair": "E3",
+            "team": "FC Dallas Youth 05 Premier West (TX-N)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "19ac82ce-9782-463a-8ed9-23bbd6e793fd",
+            "pair": "E4",
+            "team": "Avalanche 05 Black DW (UT)"
+        },
+        {
+            "age_group": "17U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "bf9614b5-8386-4215-886e-a1ff0d37e692",
+            "pair": "E4",
+            "team": "Idaho Rush (ID)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "f46feedb-20b1-4bd3-8266-7bdc31afcfab",
+            "pair": "A1",
+            "team": "Fredericksburg FC 2004 Girls Black (VA)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "bdfd76da-8dbb-4d5f-bdcd-1ac4d824f608",
+            "pair": "A1",
+            "team": "Coppermine Premier (MD)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "776a2b09-9dd5-4e27-94d0-97fcac2f98bc",
+            "pair": "A2",
+            "team": "Sporting STL Rangers (MO)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "1683ed61-9bd4-4aa0-8841-870844df4202",
+            "pair": "A2",
+            "team": "Legends FC 2004 Girls Black (MI)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "6817984c-5e77-4576-b26f-7e70645ca127",
+            "pair": "A3",
+            "team": "LTSC 2004G Showcase (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "453f8eb6-87d4-4637-968b-d7490dac6d97",
+            "pair": "A3",
+            "team": "Chicago FC United 2004 Pre-Academy Red (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "af6e5f49-4389-4e63-ada6-9b99460c9792",
+            "pair": "A4",
+            "team": "Solar SC South 04 FDL Grado (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "6de5a190-04b6-4354-99d4-1ad4cf026531",
+            "pair": "A4",
+            "team": "LSC-FC Westlake 04G FDL (TX-S)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "b89b466c-ec02-4287-b65b-fa48bcfbe0a4",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "c79a7671-f341-4105-b03f-b248f3d38757",
+            "pair": "B1",
+            "team": "Penn FC Youth 2004 F Lightning (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "f88b3aff-78cf-4004-acdc-f9ab612cc756",
+            "pair": "B1",
+            "team": "LVU 2004 Girls Black (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "032205ba-f7fb-4314-b4c3-ba750ba8bdc7",
+            "pair": "B2",
+            "team": "Libertyville FC 1974 Elite-04 Girls (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "4a48b101-ab2b-431b-bc77-bb261ecc55e0",
+            "pair": "B2",
+            "team": "Madison 56ers 2004 Girls Red (WI)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "366020aa-9ffb-4713-bbba-a569417a696e",
+            "pair": "B3",
+            "team": "Galaxy SC 2004 Blue (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "67c942e6-1e05-4b05-b8b2-82e652c877df",
+            "pair": "B3",
+            "team": "SLSG 04 (MO)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "f3cdba2d-3565-4b32-8ba5-bfb7a11e7b47",
+            "pair": "B4",
+            "team": "D'Feeters Kicks SC 04 FDL Voutier (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "ee5440cc-19cb-48dd-ae11-96f052d624d4",
+            "pair": "B4",
+            "team": "Solar 04 G Remmel (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "e5b52e9d-5159-4cfc-bb4c-7267dc4015db",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "4da75373-88e6-4a41-af57-6977d5b01e30",
+            "pair": "C1",
+            "team": "Asphalt Green SC G04 (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "ad91c291-35f2-42fa-acf4-806301c4d170",
+            "pair": "C1",
+            "team": "SDA 04 Blasters (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "e65d1d3a-dfca-4666-91a7-bd02cd9fcba5",
+            "pair": "C2",
+            "team": "Team Chicago 04 Elite (IL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "f18fea59-ba02-4dfc-9579-7fa99ede8138",
+            "pair": "C2",
+            "team": "KCSG Academy 04 (KS)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "154edc15-37ab-481e-a93a-ffb07026eb11",
+            "pair": "C3",
+            "team": "Sparta FC 04 (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "9d89e1ec-6b9c-4a5f-a959-890e6553dbac",
+            "pair": "C3",
+            "team": "Dallas Texans 04G Central (TX-N)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "fbb08c2c-ed23-4d65-9096-2817bd17661e",
+            "pair": "C4",
+            "team": "Georgia Impact U18G Elite (GA)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "a8e43114-7cea-42de-baff-6dd64f68132f",
+            "pair": "C4",
+            "team": "Piedmont Triad FC 04 Lady Black (NC)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "6f2a43a7-0b6e-44af-aa8d-2c635b1fca0a",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "d77a85e8-415e-4dae-b5ef-ddd7385e8303",
+            "pair": "D1",
+            "team": "LGN United (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "c42be488-c3cb-40ca-8f19-4edd4af4319a",
+            "pair": "D1",
+            "team": "Alleycats 2004 NL EDP Red (NY-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "489677f2-ad3c-43fc-ba8a-e2fdadb5c0c3",
+            "pair": "D2",
+            "team": "FC Evolution N G04 (OH)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "8732b36f-168a-4614-bae7-190c9888eca8",
+            "pair": "D2",
+            "team": "WCSA 2004G (OH)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "1924ef72-2557-4b5c-8c1d-ba0ec6a94ce8",
+            "pair": "D3",
+            "team": "Collierville SA 04 Lady Lobos Rush Premier (TN)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "cb177055-7170-442e-9dc8-4f30ae0045f2",
+            "pair": "D3",
+            "team": "Louisiana Fire SC 04 Red (LA)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "08bed3eb-1de5-4b7b-9be0-27aae1c710e2",
+            "pair": "D4",
+            "team": "FC Tampa Rangers (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group D",
+            "id": "e7c408b7-1b88-47f3-b48e-dd9c40c8849d",
+            "pair": "D4",
+            "team": "Miami Breakers FC 04G Black (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "22c8c7f2-71f7-40fc-a2e3-20b7a7dfc879",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "d8d6fb4d-d314-4481-85ce-fd030b85cb6d",
+            "pair": "E1",
+            "team": "Eagle F.C. 04 G Black (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "4aad87fd-dff4-4e13-89aa-26e3c6075c4d",
+            "pair": "E1",
+            "team": "Keystone FC Premier 2004 (PA-E)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "904ed7c0-f318-403f-901c-6cfab8c9a033",
+            "pair": "E2",
+            "team": "Ohio Galaxies FC 04 Elite (OH)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "5f0c1a34-578f-47db-9892-6872b91a2bcb",
+            "pair": "E2",
+            "team": "CUP 04 Gold (OH)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "b150944a-8a65-40d3-95f6-4d5bd125ef92",
+            "pair": "E3",
+            "team": "Team Boca SABR 2004 White (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "fbac170d-66f4-4d7a-8fd9-14a4e8b4f112",
+            "pair": "E3",
+            "team": "Indialantic 04 Force Black (FL)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "0556cf25-a10a-4495-9336-c4a4c7aec496",
+            "pair": "E4",
+            "team": "LASC G04 Bradbury (CA-S)"
+        },
+        {
+            "age_group": "18U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group E",
+            "id": "c306c5d1-1677-4c79-a9f4-c9a59e2669b6",
+            "pair": "E4",
+            "team": "Select FC (NV)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "39fb5c0c-1fa2-4b87-8b1d-d89ca56c9dae",
+            "pair": "A1",
+            "team": "Philadelphia SC Coppa (PA-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "d67b1821-59f3-4ee1-9576-cf2bcc213ded",
+            "pair": "A1",
+            "team": "Jersey South FC Galaxy (NJ)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "e4b85d6c-09eb-4096-9715-3aeac9343ab7",
+            "pair": "A2",
+            "team": "Chicago Inter 03 Red (IL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "11bdf0f1-a046-4d0e-a6e5-0e03c03b33a1",
+            "pair": "A2",
+            "team": "Evolution 03 Mercurial (IL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "6f6ec16e-f983-4cd7-b724-dfc6d4abda7e",
+            "pair": "A3",
+            "team": "North Shore United 2003 Girls Blue (WI)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "625989d1-9372-45e2-bbe5-ccb8ceda94ad",
+            "pair": "A3",
+            "team": "Strikers FV 03/04 Premier (IL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "6cf30796-a6b2-4e0f-adf4-9188279a223d",
+            "pair": "A4",
+            "team": "Solar 03/04G Adames (TX-N)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group A",
+            "id": "384bbff8-2aa5-408e-b402-e04759e2ab95",
+            "pair": "A4",
+            "team": "Sparta FC 03G (TX-N)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "9b5e8b2f-e102-472b-b04a-43650048a742",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "17d078d7-12e7-47ff-b63e-aa86115298b9",
+            "pair": "B1",
+            "team": "NY Surf (NY-E)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "8636cdda-f776-4e88-a5d0-ab8ce6feab5e",
+            "pair": "B1",
+            "team": "St. Mary's Soccer Power (MD)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "014a382c-d64d-4575-a801-694994a3db2f",
+            "pair": "B2",
+            "team": "FC United 03 Pre-Academy 1 (IL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "9cc58d11-ee69-4035-9702-68706eb039d4",
+            "pair": "B2",
+            "team": "Nationals Union 03 Girls Black (MI)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "2990b3cf-bd44-4894-be4b-067ea990b898",
+            "pair": "B3",
+            "team": "Shamrock Rovers FC 03 (TX-N)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "f26d99b2-e52e-44ab-b860-b104734acdf5",
+            "pair": "B3",
+            "team": "Houston Dynamo Dash South 03 PA (TX-S)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "2395a349-abe0-4e4c-a31d-555a3a43788a",
+            "pair": "B4",
+            "team": "CSA Palmetto Elite 03G (SC)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Florida",
+            "gender": "Female",
+            "group": "Group B",
+            "id": "99653a17-b369-4b7d-96ec-0039566b61cf",
+            "pair": "B4",
+            "team": "Brevard Beachside Impact Elite 2004G (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "",
+            "event2": "",
+            "gender": "Female",
+            "group": "",
+            "id": "d338bb42-c580-4f05-bc51-f60cc5676fd6",
+            "pair": "",
+            "team": ""
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "2d6172c5-8bf8-461b-8224-1e6f19ab4df9",
+            "pair": "C1",
+            "team": "South Mississippi SC Elite 03 Quickshots (MS)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "be1cadb2-007e-46fe-a3f8-214a60612084",
+            "pair": "C1",
+            "team": "FC Copa (NJ)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "53473830-95a8-425f-864f-c3242d05e678",
+            "pair": "C2",
+            "team": "TFA Elite 03 (OH)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "0bffef38-3ed4-4e48-97a8-0d471e9587b7",
+            "pair": "C2",
+            "team": "Indy Premier 03/04G Elite I (IN)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "3b1b92fa-f1ea-4a02-9aeb-92005f548f4d",
+            "pair": "C3",
+            "team": "Braden River SC 03 Premier (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "03ec0864-0c71-48dd-a13a-e15c51941c66",
+            "pair": "C3",
+            "team": "Treasure Coast United/Massive (FL)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "d56fa975-26ba-4ba8-b1c7-9f7e08ac62dd",
+            "pair": "C4",
+            "team": "Utah Celtic 03 (UT)"
+        },
+        {
+            "age_group": "19U",
+            "event1": "Orlando",
+            "event2": "Arizona",
+            "gender": "Female",
+            "group": "Group C",
+            "id": "471cc324-4d7f-494f-9288-b7c2944eb2f9",
+            "pair": "C4",
+            "team": "United PDX 03G Premier Black (OR)"
+        }
+    ]
+}

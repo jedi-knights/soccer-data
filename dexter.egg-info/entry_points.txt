@@ -1,0 +1,2 @@
+[console_scripts]
+dexter = cli.__main__:cli

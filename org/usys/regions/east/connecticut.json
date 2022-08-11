@@ -1,0 +1,663 @@
+{
+    "leagues": [
+        {
+            "name": "EDP",
+            "short_name": "EDP",
+            "clubs": []
+        },
+        {
+            "name": "Connecticut Junior Soccer Association",
+            "short_name": "CJSA",
+            "clubs": [
+                {
+                    "name": "Ansonia Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/ansonia"
+                },
+                {
+                    "name": "Avon Soccer Club",
+                    "url": "http://www.avonsoccerclub.org/"
+                },
+                {
+                    "name": "Beachside Soccer Club",
+                    "url": "https://beachsidesoccer.org/"
+                },
+                {
+                    "name": "Berlin Youth Soccer Association",
+                    "url": "https://www.bysa.org"
+                },
+                {
+                    "name": "Bethel Youth Soccer Association",
+                    "url": "http://www.bethelsoccer.org/"
+                },
+                {
+                    "name": "Bloomfield Junior Soccer Association",
+                    "url": "https://www.bjsact.org/"
+                },
+                {
+                    "name": "Bolton Soccer",
+                    "url": "https://www.boltonctsoccer.com/"
+                },
+                {
+                    "name": "Branford Soccer Club",
+                    "url": "https://www.branfordsoccer.org/"
+                },
+                {
+                    "name": "Bridgeport Hawks",
+                    "url": "https://www.facebook.com/bridgeport.hawksfc"
+                },
+                {
+                    "name": "Bridgeport Premier Fc",
+                    "url": "http://www.bridgeportpremierfutebolclub.com/"
+                },
+                {
+                    "name": "Bristol Soccer Club",
+                    "url": "https://www.bristolsoccer.org/"
+                },
+                {
+                    "name": "Brookfield Soccer Club",
+                    "url": "http://www.brookfieldsoccer.org/"
+                },
+                {
+                    "name": "Brooklyn (CT) Youth Soccer, Inc.",
+                    "url": "http://www.neconn.org/"
+                },
+                {
+                    "name": "Bunker Hill FC",
+                    "url": "http://www.bhsasports.com/"
+                },
+                {
+                    "name": "Burlington Junior Soccer Association",
+                    "url": "https://clubs.bluesombrero.com/burlingtonjsa"
+                },
+                {
+                    "name": "Canterbury Soccer Club",
+                    "url": "https://www.canterburyathleticassociation.com/soccer/"
+                },
+                {
+                    "name": "Canton Youth Soccer Association",
+                    "url": "https://www.cantonsoccer.org/"
+                },
+                {
+                    "name": "Central CT Soccer Alliance - 01",
+                    "url": "https://www.ccsa-soccer.org/ccsa"
+                },
+                {
+                    "name": "CFC North",
+                    "url": "http://www.connecticutfootballclub.com/"
+                },
+                {
+                    "name": "CFC South",
+                    "url": "http://www.connecticutfootballclub.com/"
+                },
+                {
+                    "name": "CFC Valley",
+                    "url": "http://www.connecticutfootballclub.com/"
+                },
+                {
+                    "name": "Chelsea Piers Shoreline SC",
+                    "url": "https://www.chelseapiersct.com/soccer/club-program/"
+                },
+                {
+                    "name": "Cheshire Soccer Club",
+                    "url": "http://www.cheshiresoccerclub.org/"
+                },
+                {
+                    "name": "Clinton Youth Soccer Association",
+                    "url": "http://www.clintonsoccer.net/"
+                },
+                {
+                    "name": "Coginchaug Soccer Club",
+                    "url": "https://coginchaugsoccer.org/"
+                },
+                {
+                    "name": "Colchester Youth Soccer",
+                    "url": "https://www.colchestersoccer.org/default.aspx?portalid=50921"
+                },
+                {
+                    "name": "Columbia Windham Soccer Alliance",
+                    "url": "http://www.cwsoccer.org/"
+                },
+                {
+                    "name": "Coventry Soccer Inc.",
+                    "url": "https://clubs.bluesombrero.com/coventrysoccerct"
+                },
+                {
+                    "name": "Cromwell Chill Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/default.aspx?portalid=51169"
+                },
+                {
+                    "name": "CT Impact United Soccer Academy",
+                    "url": "https://www.impactusact.com/"
+                },
+                {
+                    "name": "CT Rush",
+                    "url": "https://www.northeastrush.com/"
+                },
+                {
+                    "name": "Danbury Youth Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/danburyyouthsoccer"
+                },
+                {
+                    "name": "Darien Soccer Association",
+                    "url": "http://www.dariensoccer.org/"
+                },
+                {
+                    "name": "Derby Youth Soccer",
+                    "url": "http://www.electronicvalley.org/derby/rec/soccer.htm"
+                },
+                {
+                    "name": "DOCA Futebol Academy",
+                    "url": "http://www.mendoncasoccer.com/docafutebol-academy/"
+                },
+                {
+                    "name": "East Granby Soccer Association",
+                    "url": "https://clubs.bluesombrero.com/eastgranby"
+                },
+                {
+                    "name": "East Haddam Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/easthaddamsoccerclub"
+                },
+                {
+                    "name": "East Hampton Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/easthampton"
+                },
+                {
+                    "name": "East Hartford Soccer Club",
+                    "url": "https://tshq.bluesombrero.com/ehsc"
+                },
+                {
+                    "name": "East Haven Youth Soccer",
+                    "url": "http://www.ehys.org/"
+                },
+                {
+                    "name": "East Lyme Soccer Association",
+                    "url": "https://www.eastlymesoccer.org/"
+                },
+                {
+                    "name": "East Windsor Soccer Club",
+                    "url": "https://www.ewsoccer.com/"
+                },
+                {
+                    "name": "Easton Redding United Soccer",
+                    "url": "https://www.erunited.org/"
+                },
+                {
+                    "name": "Ellington Parks and Recreation",
+                    "url": "http://ellington-ct.gov/Plugs/parks_recreation.aspx"
+                },
+                {
+                    "name": "Enfield Soccer Association",
+                    "url": "https://enfieldsoccer.net/"
+                },
+                {
+                    "name": "Enfield Soccer Club",
+                    "url": "http://enfieldsoccerclub.org/"
+                },
+                {
+                    "name": "Fairfield United Soccer Association",
+                    "url": "https://www.fairfieldunited.com/"
+                },
+                {
+                    "name": "Farmington Soccer Club",
+                    "url": "https://www.farmingtonsoccerclub.org"
+                },
+                {
+                    "name": "Foundations Soccer Club North",
+                    "url": "http://www.foundationsc.com/"
+                },
+                {
+                    "name": "Foundations Sports Club West",
+                    "url": "http://www.foundationsc.com/"
+                },
+                {
+                    "name": "FSA Farmington Sports Arena FC",
+                    "url": "http://www.fsasports.com/app/Page/?n=93400&snid=&org=fsasports.com"
+                },
+                {
+                    "name": "Glastonbury Hartwell Soccer Club",
+                    "url": "http://www.glastonburysoccer.org/app/index/list/?org=glastonburysoccer.org"
+                },
+                {
+                    "name": "Glen Celtic America FC",
+                    "url": "https://www.glencelticamericafc.com/"
+                },
+                {
+                    "name": "Granby Rovers Soccer Club",
+                    "url": "https://www.granbyrovers.org/"
+                },
+                {
+                    "name": "Greenwich Soccer Association",
+                    "url": "https://www.greenwichtravelsoccer.com/"
+                },
+                {
+                    "name": "Griswold Soccer Club",
+                    "url": "https://www.griswoldsoccer.org/"
+                },
+                {
+                    "name": "Groton Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/grotonsoccerclub"
+                },
+                {
+                    "name": "GZS United",
+                    "url": "https://www.generationzsoccer.com/gzs-united-premier"
+                },
+                {
+                    "name": "Hamden Soccer Association",
+                    "url": "http://www.hamdensoccer.com/"
+                },
+                {
+                    "name": "Hartford Premier and Developmental",
+                    "url": "http://www.hpdl-soccer.com"
+                },
+                {
+                    "name": "Hartford Soccer Club",
+                    "url": "http://www.activecity.org/hartford-soccer-club/"
+                },
+                {
+                    "name": "Harwinton Youth Soccer",
+                    "url": "http://www.harwintonsports.com/Page.asp?n=161878&org=harwintonsports.com"
+                },
+                {
+                    "name": "Highlander Soccer Club",
+                    "url": "http://www.highlandersoccerclub.org/"
+                },
+                {
+                    "name": "HK Soccer Club",
+                    "url": "http://www.hksoccer.org/"
+                },
+                {
+                    "name": "Inter CT FC",
+                    "url": "https://www.interctfc.com/"
+                },
+                {
+                    "name": "JCFC Soccer Academy",
+                    "url": "https://www.jcfcsoccer.com/"
+                },
+                {
+                    "name": "Killingly Youth Soccer",
+                    "url": "http://www.neconn.org/"
+                },
+                {
+                    "name": "Lebanon Soccer Club",
+                    "url": "https://www.lebanonsoccerclub.com/"
+                },
+                {
+                    "name": "Ledyard Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/Default.aspx?tabid=754720"
+                },
+                {
+                    "name": "Liberty Football Club",
+                    "url": "http://www.libertyfootball.org/"
+                },
+                {
+                    "name": "Litchfield Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/litchfield"
+                },
+                {
+                    "name": "Lyme Old Lyme Soccer Club",
+                    "url": "https://www.lolsc.com/"
+                },
+                {
+                    "name": "Madison Youth Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/madison"
+                },
+                {
+                    "name": "Manchester Soccer Club",
+                    "url": "http://www.manchestersoccerclub.com/app/index/list/?org=manchestersoccerclub.com"
+                },
+                {
+                    "name": "Martin Luther King Soccer Club",
+                    "url": "https://www.mlksoccer.org/"
+                },
+                {
+                    "name": "Meriden Soccer Club",
+                    "url": "https://www.meridensoccerclub.org/"
+                },
+                {
+                    "name": "Middletown Youth Soccer",
+                    "url": "http://www.middletownsoccer.org/app/index/list/?org=middletownsoccer.org"
+                },
+                {
+                    "name": "Milford United Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/default.aspx?portalid=50695"
+                },
+                {
+                    "name": "Monroe Soccer Club",
+                    "url": "https://www.monroesoccerclub.net/"
+                },
+                {
+                    "name": "Montville Youth Soccer Club",
+                    "url": "https://www.montvillesoccer.org/"
+                },
+                {
+                    "name": "Naugatuck Youth Soccer",
+                    "url": "https://clubs.bluesombrero.com/Default.aspx?tabid=734797"
+                },
+                {
+                    "name": "NECONN Soccer Club",
+                    "url": "http://www.neconn.org/"
+                },
+                {
+                    "name": "New Britain Youth Soccer",
+                    "url": "http://newbritainsoccer.org/"
+                },
+                {
+                    "name": "New Canaan FC",
+                    "url": "https://clubs.bluesombrero.com/newcanaan"
+                },
+                {
+                    "name": "New Fairfield Soccer Club",
+                    "url": "http://www.nfsoccer.com/"
+                },
+                {
+                    "name": "New Haven Youth Soccer",
+                    "url": "https://www.nhys.soccer/"
+                },
+                {
+                    "name": "New London Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/newlondon"
+                },
+                {
+                    "name": "Newtown Soccer Club",
+                    "url": "http://www.newtownsoccerclub.org/"
+                },
+                {
+                    "name": "North Branford Soccer Club",
+                    "url": "https://www.nbsoccer.com/default.aspx?portalid=51641"
+                },
+                {
+                    "name": "North Haven Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/northhaven"
+                },
+                {
+                    "name": "Northeast United Soccer Club",
+                    "url": "https://www.northeastunited.org/"
+                },
+                {
+                    "name": "Northwest United Soccer Club",
+                    "url": "http://www.northwestunitedsc.org/"
+                },
+                {
+                    "name": "Norwalk Community Soccer Club",
+                    "url": "http://www.norwalkcsc.org/"
+                },
+                {
+                    "name": "Norwalk Junior Soccer",
+                    "url": "https://njsa.org/"
+                },
+                {
+                    "name": "Norwich Pal",
+                    "url": "https://www.norwichpal.org/"
+                },
+                {
+                    "name": "Norwich Youth Soccer Club",
+                    "url": "https://www.norwichyouthsoccerclub.org/"
+                },
+                {
+                    "name": "NoSto Youth Soccer",
+                    "url": "https://www.northstoningtonrec.com/info/activities/"
+                },
+                {
+                    "name": "Oakwood Soccer Club",
+                    "url": "https://www.oakwoodsoccer.com"
+                },
+                {
+                    "name": "Old Greenwich Riverside CC",
+                    "url": "https://www.myogrcc.org/"
+                },
+                {
+                    "name": "Old Saybrook Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/oldsaybrook"
+                },
+                {
+                    "name": "Ole Impact FC",
+                    "url": "https://www.oleimpactfc.com/"
+                },
+                {
+                    "name": "Orange Soccer Association/Amity Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/Default.aspx?tabid=734665"
+                },
+                {
+                    "name": "Oxford Soccer League",
+                    "url": "https://oxfordsoccerleague.net/"
+                },
+                {
+                    "name": "Plainfield Youth Soccer",
+                    "url": "http://plainfield.cjsalive.org/home.php"
+                },
+                {
+                    "name": "Plainville Soccer Club",
+                    "url": "https://www.plainvillesoccer.com/"
+                },
+                {
+                    "name": "Pomperaug Soccer Club",
+                    "url": "http://www.pomperaugsoccerclub.com/"
+                },
+                {
+                    "name": "Portland Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/portlandsoccerclub"
+                },
+                {
+                    "name": "Prospect Soccer Club",
+                    "url": "https://www.prospectsoccerclub.com/"
+                },
+                {
+                    "name": "QVSA United",
+                    "url": "http://qvsaunited.com/"
+                },
+                {
+                    "name": "Revolution United FC",
+                    "url": "http://www.revolutionunitedfc.com/"
+                },
+                {
+                    "name": "RHAM Youth Soccer",
+                    "url": "https://www.rhamyouthsoccer.org/"
+                },
+                {
+                    "name": "Rocky Hill Soccer Club",
+                    "url": "http://www.rockyhillsoccer.com/"
+                },
+                {
+                    "name": "Rowayton Soccer Club",
+                    "url": "https://www.sportsengine.com/org/rca-rowayton-football-club"
+                },
+                {
+                    "name": "Salem Surge Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/salemsurge"
+                },
+                {
+                    "name": "Seymour Soccer Association Inc.",
+                    "url": "https://www.seymoursoccer.org/"
+                },
+                {
+                    "name": "Shelton Youth Soccer Organization",
+                    "url": "https://www.sysonet.org/"
+                },
+                {
+                    "name": "Shepaug Soccer Club",
+                    "url": "http://www.shepaugsoccerclub.com/"
+                },
+                {
+                    "name": "SHERMAN SOCCER CLUB",
+                    "url": "http://www.shermansoccerclub.org/"
+                },
+                {
+                    "name": "Shoreline United",
+                    "url": "https://www.shorelineunitedsoccerclub.com/"
+                },
+                {
+                    "name": "Simmons Soccer Club",
+                    "url": "https://www.simmons-soccer.com/"
+                },
+                {
+                    "name": "Simsbury Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/simsburysoccerclub"
+                },
+                {
+                    "name": "Soccer Club of Guilford",
+                    "url": "https://www.guilfordsoccer.org/"
+                },
+                {
+                    "name": "Soccer Club of New Milford",
+                    "url": "https://www.newmilfordsoccer.com/"
+                },
+                {
+                    "name": "Soccer Club of Newington",
+                    "url": "http://clubs.bluesombrero.com/newingtonsoccer"
+                },
+                {
+                    "name": "Soccer Club of Ridgefield",
+                    "url": "https://www.scor.org/"
+                },
+                {
+                    "name": "Somers Soccer Association",
+                    "url": "https://www.somerssoccerassociation.org/"
+                },
+                {
+                    "name": "South Central Premier",
+                    "url": "https://www.southcentralpremier.com/"
+                },
+                {
+                    "name": "South Windsor Soccer Club",
+                    "url": "https://www.southwindsorsoccer.org/"
+                },
+                {
+                    "name": "Southeast Soccer Club",
+                    "url": "https://www.southeastsoccerclub.com/"
+                },
+                {
+                    "name": "Southington Soccer Club",
+                    "url": "https://www.southingtonsoccer.org/"
+                },
+                {
+                    "name": "Stafford Springs Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/staffordsprings"
+                },
+                {
+                    "name": "Stamford Youth Soccer",
+                    "url": "http://www.stamford.soccer/"
+                },
+                {
+                    "name": "Stonington Soccer Club",
+                    "url": "http://www.stratfordunitedsoccer.com/"
+                },
+                {
+                    "name": "Stratford United",
+                    "url": "http://www.stratfordunitedsoccer.com/"
+                },
+                {
+                    "name": "Suffield Soccer Club",
+                    "url": "https://www.suffieldsoccer.com/"
+                },
+                {
+                    "name": "Terryville Youth Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/Default.aspx?tabid=850435"
+                },
+                {
+                    "name": "Thomaston Soccer Club",
+                    "url": "https://www.thomastonsoccerclub.com/"
+                },
+                {
+                    "name": "Tolland Soccer Club",
+                    "url": "https://tollandsoccerclub.org/"
+                },
+                {
+                    "name": "Torrington Youth Soccer Club",
+                    "url": "https://www.torringtonyouthsoccer.com/"
+                },
+                {
+                    "name": "Trumbull United Soccer Club",
+                    "url": "https://www.trumbullunited.com/"
+                },
+                {
+                    "name": "Vale Sports Club",
+                    "url": "https://valesc.com/"
+                },
+                {
+                    "name": "Valley Regional Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/valleysoccerclub"
+                },
+                {
+                    "name": "Vernon Soccer Club",
+                    "url": "https://www.vernonsoccerclub.org/default.aspx?portalid=51127"
+                },
+                {
+                    "name": "Wallingford Youth Soccer",
+                    "url": "https://clubs.bluesombrero.com/Default.aspx?tabid=743992"
+                },
+                {
+                    "name": "WAM United Soccer Club",
+                    "url": "http://www.wamunited.com/"
+                },
+                {
+                    "name": "Waterford Soccer Club",
+                    "url": "https://www.waterfordsoccer.org/"
+                },
+                {
+                    "name": "Watertown",
+                    "url": "https://www.watertownyouthsoccer.net/"
+                },
+                {
+                    "name": "West Hartford Soccer Club",
+                    "url": "https://www.wehasoccer.org/"
+                },
+                {
+                    "name": "West Hartford Youth Soccer Association",
+                    "url": "https://www.wehasoccer.org/"
+                },
+                {
+                    "name": "West Haven Youth Soccer League",
+                    "url": "https://www.whysl.org/"
+                },
+                {
+                    "name": "Westbrook Soccer Club",
+                    "url": "http://wsc.gotsport.com/"
+                },
+                {
+                    "name": "Weston Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/westonsoccer"
+                },
+                {
+                    "name": "Westport Soccer Association",
+                    "url": "https://www.westportsoccer.org/"
+                },
+                {
+                    "name": "Wethersfield George D Ritchie Soccer Club",
+                    "url": "https://www.wethersfieldsoccer.com/"
+                },
+                {
+                    "name": "Wilton Soccer Association",
+                    "url": "https://www.wiltonsoccer.com/"
+                },
+                {
+                    "name": "Windsor Locks Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/windsorlocks"
+                },
+                {
+                    "name": "Windsor Soccer Club",
+                    "url": "https://www.windsorsoccer.org/"
+                },
+                {
+                    "name": "Winsted Youth Soccer Association",
+                    "url": "https://clubs.bluesombrero.com/winstedyouthsoccer"
+                },
+                {
+                    "name": "Wolcott Youth Athletic Association",
+                    "url": "https://www.wolcottsoccer.com/"
+                },
+                {
+                    "name": "Woodbridge Soccer Club",
+                    "url": "https://clubs.bluesombrero.com/woodbridge"
+                },
+                {
+                    "name": "Woodbury Bethlehem Youth Soccer",
+                    "url": "http://www.wbysclub.com/"
+                },
+                {
+                    "name": "Yankee United FC",
+                    "url": "http://www.yankeeunited.com/"
+                }
+            ]
+        }
+    ]
+}

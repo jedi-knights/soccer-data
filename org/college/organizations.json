@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "ff7fbcce-8982-42fa-9ee8-96a230a1a2dc",
+      "name": "National Collegiate Athletic Association",
+      "short_name": "ncaa"
+    },
+    {
+      "id": "6a289403-2bd3-4390-bf8f-f2cc3a055aaa",
+      "name": "National Association of Intercollegiate Athletics",
+      "short_name": "naia"
+    },
+    {
+      "id": "bf4fd0f1-9720-4441-b3de-fd58a5e885d5",
+      "name": "National Junior College Athletic Association",
+      "short_name": "njcaa"
+    }
+  ]
+}

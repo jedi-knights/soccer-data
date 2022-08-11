@@ -1,0 +1,14 @@
+click
+bs4
+requests
+wheel
+python-dotenv
+jsonschema
+azure-cosmos
+tweepy
+typing-extensions
+
+[dev]
+pytest
+pytest-cov
+flake8

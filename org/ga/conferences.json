@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "2c8c28a3-69e6-4c73-b55b-702b7f003de1",
+            "name": "Frontier",
+            "url": null
+        },
+        {
+            "id": "03a46a4a-1726-4f18-a036-e894f8e97fe6",
+            "name": "Mid-America",
+            "url": null
+        },
+        {
+            "id": "0c3d72ae-67bf-4030-9196-733c3ae58f2f",
+            "name": "Mid-Atlantic",
+            "url": null
+        },
+        {
+            "id": "e4e440cd-49e9-44b9-9a9b-6bdc32fe7126",
+            "name": "Mountain West",
+            "url": null
+        },
+        {
+            "id": "e70b69c5-32f2-4b18-9741-2a392215ea81",
+            "name": "Northeast",
+            "url": null
+        },
+        {
+            "id": "3892e58f-1b0d-46a8-94da-b90d38beb900",
+            "name": "Northwest",
+            "url": null
+        },
+        {
+            "id": "0ca24299-e66b-4268-aadf-be2fc9869794",
+            "name": "Southeast",
+            "url": null
+        },
+        {
+            "id": "9b977ad5-69d6-4dfe-8a7e-ff676fed1e29",
+            "name": "Southwest",
+            "url": null
+        }
+    ]
+}

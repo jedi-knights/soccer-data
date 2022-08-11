@@ -1,0 +1,400 @@
+{
+    "data": [
+        {
+            "id": "23b0ee5e-299c-4de5-bbe7-6320fbcd21f2",
+            "name": "Allegheny Mountain"
+        },
+        {
+            "id": "758697e1-4cb2-406f-8245-a64f52dffd7f",
+            "name": "American Southwest"
+        },
+        {
+            "id": "1549f49d-4349-4950-8ec9-6c2205766e3e",
+            "name": "Atlantic East Conference"
+        },
+        {
+            "id": "0f77212e-cb59-4a45-b922-d13846ca28be",
+            "name": "CCIW"
+        },
+        {
+            "id": "2571e181-8e4c-49a5-b096-e96473e8f3da",
+            "name": "CUNYAC"
+        },
+        {
+            "id": "9c14d6c2-5443-4e50-a5f2-ba7dde64f8d6",
+            "name": "Capital Athletic"
+        },
+        {
+            "id": "499d9f3f-940f-4063-b948-d8f6ad748e56",
+            "name": "Centennial"
+        },
+        {
+            "id": "cb556835-a80c-4525-bd19-60aed47d828d",
+            "name": "Colonial States"
+        },
+        {
+            "id": "4fe24918-53f7-4b2d-9297-999149361b95",
+            "name": "Commonwealth"
+        },
+        {
+            "id": "a4f2bea0-fb01-4dce-992a-f245ac5d5c72",
+            "name": "Empire 8"
+        },
+        {
+            "id": "d247780b-d546-4fdf-8e86-df3fc9e4dba8",
+            "name": "Freedom"
+        },
+        {
+            "id": "2f556286-bc79-45fa-84c5-ddd90ac6aca2",
+            "name": "Great Northeast"
+        },
+        {
+            "id": "0e47b5cc-a110-4259-8304-233d3f5b2118",
+            "name": "Heart of America"
+        },
+        {
+            "id": "7432474b-9ba5-4ad8-a3fc-147e46d5cccc",
+            "name": "Heartland Collegiate"
+        },
+        {
+            "id": "1b41b048-de24-4ac6-93d2-0d8b317b1e31",
+            "name": "Hudson Valley"
+        },
+        {
+            "id": "71e9bb7f-20f3-4f8f-b1bb-0ef09296931e",
+            "name": "Independent"
+        },
+        {
+            "id": "6ff4b817-0cd8-4c23-b7c4-8bc5421e9bea",
+            "name": "Iowa Intercollegiate"
+        },
+        {
+            "id": "0b5eef96-bb0b-426c-8cf7-3b42300bb5a9",
+            "name": "Landmark"
+        },
+        {
+            "id": "f62b2d2a-0b3b-4c16-972b-247b2b2fa802",
+            "name": "Liberty League"
+        },
+        {
+            "id": "234e8295-ec0b-406e-b4eb-45c5a0bccc27",
+            "name": "Little East"
+        },
+        {
+            "id": "70ceaa78-8380-4d69-8701-e56352bedf55",
+            "name": "MASCAC"
+        },
+        {
+            "id": "aa974365-e461-4845-9b5b-3b289f10b442",
+            "name": "Michigan Intercollegiate Athletic Association"
+        },
+        {
+            "id": "bcac7e32-ceb7-43da-8e84-90d926aedde9",
+            "name": "Midwest"
+        },
+        {
+            "id": "aa9e4fa1-9054-4585-8c4a-9040d60c2f17",
+            "name": "Minnesota Intercollegiate"
+        },
+        {
+            "id": "8557e14e-ed46-4916-aa8f-3b03f17ebda0",
+            "name": "NESCAC"
+        },
+        {
+            "id": "cff3cad0-faf9-47e7-982b-22e57b0f2891",
+            "name": "NEWMAC"
+        },
+        {
+            "id": "c84c9217-5ff4-4a11-a60a-c7ec4defddb2",
+            "name": "New England Collegiate"
+        },
+        {
+            "id": "e9df1017-1f93-401c-b76a-8ca5de39bce5",
+            "name": "New Jersey Athletic"
+        },
+        {
+            "id": "30d461d2-d570-4eff-bcfd-8f5298e23a51",
+            "name": "North Atlantic"
+        },
+        {
+            "id": "f3dee478-67d6-40c2-a5a6-d7a710e7132c",
+            "name": "North Coast"
+        },
+        {
+            "id": "b65b52a9-7f6e-42ef-bdaf-2d9da0c4be2d",
+            "name": "North Eastern Athletic"
+        },
+        {
+            "id": "039fc338-1ebd-4880-aa30-1577dded91d0",
+            "name": "Northern Athletics"
+        },
+        {
+            "id": "4dbc91aa-fec9-4a87-ae5a-b61d91e59b59",
+            "name": "Northwest"
+        },
+        {
+            "id": "7194db87-1939-4932-a3a7-82a160858911",
+            "name": "Ohio Athletic"
+        },
+        {
+            "id": "4468f3eb-6dfa-4c08-af9d-fda4e7d62c70",
+            "name": "Old Dominion Athletic"
+        },
+        {
+            "id": "9da30169-2e8d-4fbd-a463-bcdf00cd3e4e",
+            "name": "Penn State University Athletic Conference"
+        },
+        {
+            "id": "1d9c2366-03c9-4e4d-b0b3-9a327061db9a",
+            "name": "Presidents'"
+        },
+        {
+            "id": "b2976d0f-a1b7-4726-8f21-4ec5f8329535",
+            "name": "SCIAC"
+        },
+        {
+            "id": "08d0385b-7ee2-429a-aa97-51834d3c1824",
+            "name": "SUNYAC"
+        },
+        {
+            "id": "e22601c0-a1d1-4376-a75e-f3cf0c647f79",
+            "name": "Skyline"
+        },
+        {
+            "id": "563054f2-90af-4b73-821f-68e32ee22cc2",
+            "name": "Southern Athletic Association"
+        },
+        {
+            "id": "039c5ab9-37cd-4e62-aa23-7234a62fe23a",
+            "name": "Southern Collegiate Athletic"
+        },
+        {
+            "id": "b32fdb17-150c-4c36-b913-5c3c77d7fd9b",
+            "name": "St. Louis Intercollegiate Athletic Conference"
+        },
+        {
+            "id": "af50c7cb-b8c9-4ad8-acc3-9949ead899c2",
+            "name": "The Commonwealth Coast"
+        },
+        {
+            "id": "3ed361d0-04e9-46f9-8875-4f6ae6f99bc0",
+            "name": "USA South Athletic"
+        },
+        {
+            "id": "56ff1e6c-93af-4dc2-a450-5e30972995e6",
+            "name": "United States Collegiate Athletic Association"
+        },
+        {
+            "id": "af0f38ba-6820-4ca2-a941-f25ac5140e11",
+            "name": "University Athletic Association"
+        },
+        {
+            "id": "e8ac9d21-d18e-4838-ba18-2bbb3c55068f",
+            "name": "Upper Midwest Athletic"
+        },
+        {
+            "id": "7f5dddd0-97d4-4749-9f42-5e3534faa6cb",
+            "name": "Wisconsin Intercollegiate"
+        },
+        {
+            "id": "99746b10-7915-40b4-9630-debac6be336a",
+            "name": "Allegheny Mountain"
+        },
+        {
+            "id": "b504efc7-fd69-4a9d-8cd3-8b308adf043a",
+            "name": "American Southwest"
+        },
+        {
+            "id": "8e9637fa-70fd-4180-bef1-ad2112a80e24",
+            "name": "Atlantic East Conference"
+        },
+        {
+            "id": "ce046f0a-c1cb-4d5c-b044-b3a8f490b464",
+            "name": "CCIW"
+        },
+        {
+            "id": "a751b739-b74b-4f0a-a21f-2a7b584826cd",
+            "name": "CUNYAC"
+        },
+        {
+            "id": "93691fb9-d90b-4195-b6dd-f8d3ebc0f0bd",
+            "name": "Capital Athletic"
+        },
+        {
+            "id": "7f8f3b5a-7c9c-4664-b18f-74098a0f36d4",
+            "name": "Centennial"
+        },
+        {
+            "id": "3c3dac11-135f-4df5-8cb8-180f35cbfd3a",
+            "name": "Colonial States"
+        },
+        {
+            "id": "44889734-e9e3-41ef-b795-70c805fd2ff8",
+            "name": "Commonwealth"
+        },
+        {
+            "id": "3df0a537-13ed-4035-b033-e4dbbfd15ca0",
+            "name": "Empire 8"
+        },
+        {
+            "id": "8f9f2ae2-371f-4f6a-8b21-f182d5ca8424",
+            "name": "Freedom"
+        },
+        {
+            "id": "a71bc35d-475d-4a1a-8a7d-5063dc4067fb",
+            "name": "Great Northeast"
+        },
+        {
+            "id": "8a9deede-5c4a-4f9e-92af-47c6aba88f86",
+            "name": "Great South"
+        },
+        {
+            "id": "6b6f9246-0e54-4241-9682-91c251c7ea55",
+            "name": "Heart of America"
+        },
+        {
+            "id": "4a2180d3-6619-415e-b5ab-64df93ef5c81",
+            "name": "Heartland Collegiate"
+        },
+        {
+            "id": "01e266d2-2d59-4946-a139-311d615d2055",
+            "name": "Hudson Valley"
+        },
+        {
+            "id": "a9b7c518-7f1d-4ea8-a347-77050d97114e",
+            "name": "Independent"
+        },
+        {
+            "id": "7ad9f79f-283b-4bbc-a97c-5cb1eea6082a",
+            "name": "Iowa Intercollegiate"
+        },
+        {
+            "id": "69b15785-7b79-476b-aa09-0f304c7a65cd",
+            "name": "Landmark"
+        },
+        {
+            "id": "ba47d7e2-4a76-462d-808c-7d52f4997936",
+            "name": "Liberty League"
+        },
+        {
+            "id": "9ac58316-5681-4c95-97d2-8b5d20458c38",
+            "name": "Little East"
+        },
+        {
+            "id": "6e79102c-90ac-4768-ab13-4a75a58fa687",
+            "name": "MASCAC"
+        },
+        {
+            "id": "5091fe43-d79b-4594-9e92-e4d423b10645",
+            "name": "Michigan Intercollegiate Athletic Association"
+        },
+        {
+            "id": "384c120c-3afd-406f-b831-521a15124ef0",
+            "name": "Midwest"
+        },
+        {
+            "id": "634c1ccf-97ad-45c0-a032-6add8866bc40",
+            "name": "Minnesota Intercollegiate"
+        },
+        {
+            "id": "6bc10719-10f0-4836-8939-5f91e54c27b8",
+            "name": "NESCAC"
+        },
+        {
+            "id": "a726c89a-3246-46a8-acec-b68f46daf063",
+            "name": "NEWMAC"
+        },
+        {
+            "id": "6b2e5219-0384-471f-8651-d85493b3c371",
+            "name": "New England Collegiate"
+        },
+        {
+            "id": "da231507-fb0d-487f-8b28-abbef2a572fb",
+            "name": "New Jersey Athletic"
+        },
+        {
+            "id": "ee95b49a-63a7-4611-9b3d-096a81b8cd0c",
+            "name": "North Atlantic"
+        },
+        {
+            "id": "6456f0e8-f2d7-49bc-8f75-51aede9ea9d4",
+            "name": "North Coast"
+        },
+        {
+            "id": "d6c62259-f48b-4cb5-bbd7-13f2bb56db19",
+            "name": "North Eastern Athletic"
+        },
+        {
+            "id": "e58140ca-0e40-4418-9a96-782e737c61fd",
+            "name": "Northern Athletics"
+        },
+        {
+            "id": "f344e0a1-e13b-49e5-8a3d-85fe399c1d78",
+            "name": "Northwest"
+        },
+        {
+            "id": "a19fe7cb-6c8d-46e2-b155-73acdd540446",
+            "name": "Ohio Athletic"
+        },
+        {
+            "id": "f8173412-01cc-47da-ac01-168f26ae267a",
+            "name": "Old Dominion Athletic"
+        },
+        {
+            "id": "ba4fb8c3-5c52-473e-99e5-abb038fdf8c3",
+            "name": "Penn State University Athletic Conference"
+        },
+        {
+            "id": "3a239b56-81a4-437a-b777-57d57ab86df5",
+            "name": "Presidents'"
+        },
+        {
+            "id": "892d64bb-5e55-4532-a514-de05ffd70100",
+            "name": "SCIAC"
+        },
+        {
+            "id": "5df398d7-f316-428e-99f1-13802fc5b13e",
+            "name": "SUNYAC"
+        },
+        {
+            "id": "e579c0b5-f05e-4b0c-8bcf-5aab571bafca",
+            "name": "Skyline"
+        },
+        {
+            "id": "fc0d6cfc-ea84-48f7-a9d5-f9eee8428bfa",
+            "name": "Southern Athletic Association"
+        },
+        {
+            "id": "7fa1c4ad-f691-41af-87e3-b5c5e4c72fed",
+            "name": "Southern Collegiate Athletic"
+        },
+        {
+            "id": "c5aca2e7-28e8-4096-ac5f-86184d02dfc5",
+            "name": "St. Louis Intercollegiate Athletic Conference"
+        },
+        {
+            "id": "e31abf69-12dd-4450-9bd2-4a2f48664da6",
+            "name": "The Commonwealth Coast"
+        },
+        {
+            "id": "90d7f895-2f24-4df8-acf4-b65f92d4a758",
+            "name": "USA South Athletic"
+        },
+        {
+            "id": "269cb00f-3861-4332-bcdc-e06967e0e37e",
+            "name": "United States Collegiate Athletic Association"
+        },
+        {
+            "id": "1cbbbba4-57e9-4379-ae3a-9af9714c0b19",
+            "name": "University Athletic Association"
+        },
+        {
+            "id": "e25e2205-5873-47cf-a11f-e386c6b307cc",
+            "name": "Upper Midwest Athletic"
+        },
+        {
+            "id": "581dae09-ba59-420a-936b-693f84a01864",
+            "name": "Wisconsin Intercollegiate"
+        }
+    ]
+}

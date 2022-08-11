@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "name": "Desert",
+      "url": "https://www.usysnationalleague.com/desert-conference/",
+      "schedule_url": "https://system.gotsport.com/org_event/events/14871"
+    },
+    {
+      "name": "Frontier",
+      "url": "https://www.usysnationalleague.com/frontier-conference/",
+      "schedule_url": null
+    },
+    {
+      "name": "Great Lakes",
+      "url": "https://www.usysnationalleague.com/great-lakes-conference/",
+      "schedule_url": "https://system.gotsport.com/org_event/events/8120"
+    },
+    {
+      "name": "Mid Atlantic",
+      "url": "https://www.usysnationalleague.com/mid-atlantic-conference/"
+    },
+    {
+      "name": "Mid South",
+      "url": "https://www.usysnationalleague.com/mid-south-conference/"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://www.usysnationalleague.com/midwest-conference/"
+    },
+    {
+      "name": "New England",
+      "url": "https://www.usysnationalleague.com/new-england-conference/"
+    },
+    {
+      "name": "North Atlantic",
+      "url": "https://www.usysnationalleague.com/north-atlantic-conference/"
+    },
+    {
+      "name": "Northwest",
+      "url": "https://www.usysnationalleague.com/northwest-conference/"
+    },
+    {
+      "name": "Pacific",
+      "url": "https://www.usysnationalleague.com/pacific-conference/"
+    },
+    {
+      "name": "Sunshine",
+      "url": "https://www.usysnationalleague.com/sunshine-conference/"
+    },
+    {
+      "name": "Piedmont",
+      "url": "https://www.usysnationalleague.com/piedmont-conference/"
+    },
+    {
+      "name": "South Atlantic",
+      "url": "https://www.usysnationalleague.com/south-atlantic-conference/"
+    }
+  ]
+}
