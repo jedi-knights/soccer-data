@@ -104,6 +104,23 @@ def translate_club_name(club_name: str):
 
     return club_name
 
+def translate_conference_name(conference_name: str):
+    if conference_name is None:
+        return None
+
+    conference_name = conference_name.strip()
+
+    if len(conference_name) == 0:
+        return ''
+
+    club_translations = load_github_data("https://raw.githubusercontent.com/ocrosby/soccer-data/main/org/conference_translations.json")
+
+    for mapping in club_translations:
+        if mapping["from"] == conference_name:
+            return mapping["to"]
+
+    return conference_name
+
 
 # GITHUB_DATA = process_github_list()
 
