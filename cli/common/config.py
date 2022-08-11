@@ -116,8 +116,7 @@ def translate_conference_name(conference_name: str):
     club_translations = load_github_data("https://raw.githubusercontent.com/ocrosby/soccer-data/main/org/conference_translations.json")
 
     for mapping in club_translations:
-        if mapping["from"] == conference_name:
-            print(f'Translating conference from "{mapping["from"]}" to "{mapping["to"]}" ...')
+        if mapping["from"] == conference_name:            
             return mapping["to"]
 
     return conference_name

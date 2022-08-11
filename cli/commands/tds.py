@@ -1,9 +1,12 @@
 import json
 import click
+import logging
+import click_log
 
 from cli.common import config
 from cli.common import tools
 from cli.library import topdrawer
+import click_spinner
 
 @click.group()
 def cli():
@@ -30,11 +33,15 @@ def commitment():
 @click.option("--conference", "-c", type=str, required=True, help="The conference name")
 @click.option("--year", "-y", type=int, required=True, help="The graduation year of the players")
 def list(gender: str, division: str, conference: str, year: int):
-    """List player commitments for from TopDrawer"""
+    """List player commitments from TopDrawer"""
+    logging.info("Listing player commitments from TopDrawer ...")
     gender = tools.normalize_gender(gender)
-    conference = config.translate_conference_name(conference)
 
-    schools = topdrawer.get_conference_commits(gender, division, conference, year)
+    with click_spinner.spinner():
+        conference = config.translate_conference_name(conference)
+
+    with click_spinner.spinner():
+        schools = topdrawer.get_conference_commits(gender, division, conference, year)
 
     if schools is None:
         click.echo("The list of schools returned was undefined!")
@@ -55,22 +62,40 @@ def list(gender: str, division: str, conference: str, year: int):
 
 
 @conference.command()
+@click.option("--verbose", "-v", is_flag=True, required=False, default=False, help="Display verbose output")
 @click.option("--conference", "-c", type=str, required=True, help="The conference name")
-def division(conference: str):
+def division(verbose: bool, conference: str):
     """Lookup the division by conference name"""
-    conference = config.translate_conference_name(conference)
-    division = topdrawer.lookup_division_by_conference(conference)
+
+    with click_spinner.spinner():
+        new_conference_name = config.translate_conference_name(conference)
+
+    if verbose and conference != new_conference_name:
+        click.echo(f"Translated conference '{conference}' to '{new_conference_name}'.")
+
+    if verbose:
+        click.echo(f"Looking up the division for the '{new_conference_name}' conference")
+    
+    with click_spinner.spinner():
+        division = topdrawer.lookup_division_by_conference(new_conference_name)
+
     if division is not None:
         division = division.upper()
     else:
         division = "Unknown"
-        
-    click.echo(division)
+    
+    if verbose:
+        click.echo()
+        click.echo(f"The \"{new_conference_name}\" is in the {division} division.")
+    else:
+        click.echo(division)
 
 @conference.command()
+@click.option("--numbers", "-n", is_flag=True, required=False, default=False, help="Display numbers")
+@click.option("--verbose", "-v", is_flag=True, required=False, default=False, help="Display verbose output")
 @click.option("--gender", "-g", type=click.Choice(["male", "female"]), required=True, help="Specify a gender.")
 @click.option("--division", "-d", type=click.Choice(["di", "dii", "diii", "naia", "njcaa"]), required=False, default="di", help="Specify a target division.")
-def list(gender: str, division: str):
+def list(gender: str, division: str, verbose: bool, numbers: bool):
     """
     List conferences from TopDrawer
 
@@ -80,17 +105,22 @@ def list(gender: str, division: str):
     """
     gender = tools.normalize_gender(gender)
 
-    conferences = topdrawer.get_conferences(gender, division)
+    with click_spinner.spinner():
+        conferences = topdrawer.get_conferences(gender, division)
 
     index = 0
     for conference in conferences:
         if conference["name"] != "N/A":
             index += 1
-            click.echo(f'{index}) {conference["name"]}')
+            if numbers:
+                click.echo(f'{index}) {conference["name"]}')
+            else:
+                click.echo(conference["name"])
 
-    click.echo()
-    click.echo(f"There were {index} {gender} conferences in the {division.upper()} division.")
-    click.echo()
+    if verbose:
+        click.echo()
+        click.echo(f"There were {index} {gender} conferences in the {division.upper()} division.")
+        click.echo()
 
 @conference.command()
 @click.option("--gender", "-g", type=click.Choice(["male", "female"]), required=True, help="Specify a gender.")
@@ -98,7 +128,9 @@ def list(gender: str, division: str):
 @click.argument("output", type=click.File(mode="w"))
 def export(gender: str, division: str, output):
     """Export conferences from TopDrawer"""
-    conferences = topdrawer.get_conferences(gender, division)
+    with click_spinner.spinner():
+        conferences = topdrawer.get_conferences(gender, division)
+
     root = { "data": conferences }
 
     json.dump(root, output, ensure_ascii=False, indent=2, sort_keys=False)

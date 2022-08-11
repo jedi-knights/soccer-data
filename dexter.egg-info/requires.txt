@@ -1,4 +1,6 @@
 click
+click_log
+click_spinner
 bs4
 requests
 wheel
