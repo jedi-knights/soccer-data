@@ -1,6 +1,7 @@
 import json
 import click
 
+from cli.common import config
 from cli.common import tools
 from cli.library import topdrawer
 
@@ -31,6 +32,7 @@ def commitment():
 def list(gender: str, division: str, conference: str, year: int):
     """List player commitments for from TopDrawer"""
     gender = tools.normalize_gender(gender)
+    conference = config.translate_conference_name(conference)
 
     schools = topdrawer.get_conference_commits(gender, division, conference, year)
 
@@ -52,6 +54,7 @@ def list(gender: str, division: str, conference: str, year: int):
 @click.option("--conference", "-c", type=str, required=True, help="The conference name")
 def division(conference: str):
     """Lookup the division by conference name"""
+    conference = config.translate_conference_name(conference)
     division = topdrawer.lookup_division_by_conference(conference)
     if division is not None:
         division = division.upper()
