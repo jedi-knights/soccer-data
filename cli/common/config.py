@@ -117,6 +117,7 @@ def translate_conference_name(conference_name: str):
 
     for mapping in club_translations:
         if mapping["from"] == conference_name:
+            print(f'Translating conference from "{mapping["from"]}" to "{mapping["to"]}" ...')
             return mapping["to"]
 
     return conference_name

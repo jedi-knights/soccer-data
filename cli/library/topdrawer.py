@@ -50,6 +50,10 @@ def get_conferences_content(division: str):
 def get_conference_commitments_content(gender: str, division: str, conference_name: str):
     """Returns the HTML from the given conferences commitments page."""
     conference = get_conference(gender, division, conference_name)
+
+    if conference is None:
+        return None
+
     url = conference["url"] + "/tab-commitments"
 
     response = requests.get(url)
@@ -339,6 +343,9 @@ def get_conference_commitment_chart_data(gender: str, division: str, name: str, 
 def get_conference_commits(gender: str, division: str, conference_name: str, year: int = 0):
     if conference_name != "All":
         content = get_conference_commitments_content(gender, division, conference_name)
+
+        if content is None:
+            return None
 
         soup = bs4.BeautifulSoup(content, "html.parser")
 

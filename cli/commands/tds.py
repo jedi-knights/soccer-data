@@ -36,6 +36,10 @@ def list(gender: str, division: str, conference: str, year: int):
 
     schools = topdrawer.get_conference_commits(gender, division, conference, year)
 
+    if schools is None:
+        click.echo("The list of schools returned was undefined!")
+        return
+
     click.echo(f"gender={gender}")
     click.echo(f"division={division}")
     click.echo(f"conference='{conference}'")
